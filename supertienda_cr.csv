@@ -1,0 +1,1002 @@
+ID_Orden,Fecha_Orden,Metodo_Envio,Nombre_Cliente,Segmento,Region,Provincia,Categoria,Subcategoria,Ventas,Cantidad,Descuento,Ganancia
+CR-2022-01000,2022-11-17,Economico,Sofia Vargas,Consumidor,Pacifico,Puntarenas,Oficina,Papel,17.61,1,0.0,4.18
+CR-2022-01000,2022-11-17,Economico,Sofia Vargas,Consumidor,Pacifico,Puntarenas,Oficina,Organizadores,64.28,2,0.05,15.31
+CR-2022-01001,2022-01-14,Express,Sebastian Vega,Consumidor,Pacifico,Guanacaste,Muebles,Sillas,163.81,1,0.0,16.24
+CR-2024-01002,2024-07-29,Express,Maria Lopez,Corporativo,Norte,San Carlos,Muebles,Sillas,1106.86,2,0.0,80.16
+CR-2024-01002,2024-07-29,Estandar,Maria Lopez,Corporativo,Norte,San Carlos,Tecnologia,Accesorios,1241.08,1,0.05,372.61
+CR-2023-01003,2023-12-29,Economico,Jose Garcia,Corporativo,Caribe,Limon,Tecnologia,Telefonos,243.89,1,0.15,59.02
+CR-2023-01003,2023-12-29,Express,Jose Garcia,Corporativo,Caribe,Limon,Oficina,Impresion,104.04,2,0.0,49.81
+CR-2023-01004,2023-12-03,Express,Carlos Ramirez,Corporativo,Caribe,Limon,Oficina,Impresion,71.53,1,0.0,26.79
+CR-2023-01004,2023-12-03,Estandar,Carlos Ramirez,Corporativo,Caribe,Limon,Oficina,Papel,53.47,1,0.15,18.92
+CR-2023-01004,2023-12-03,Express,Carlos Ramirez,Corporativo,Caribe,Limon,Tecnologia,Tablets,258.04,1,0.05,59.07
+CR-2024-01005,2024-08-16,Estandar,Isabella Monge,Corporativo,Central,Alajuela,Muebles,Estantes,710.25,1,0.0,40.04
+CR-2024-01005,2024-08-16,Economico,Isabella Monge,Corporativo,Central,Alajuela,Oficina,Utiles,230.96,2,0.0,92.41
+CR-2024-01005,2024-08-16,Estandar,Isabella Monge,Corporativo,Central,Alajuela,Tecnologia,Accesorios,503.35,1,0.15,164.46
+CR-2024-01006,2024-11-27,Estandar,Diego Hernandez,Consumidor,Caribe,Limon,Tecnologia,Telefonos,1889.16,2,0.15,396.37
+CR-2024-01006,2024-11-27,Express,Diego Hernandez,Consumidor,Caribe,Limon,Oficina,Utiles,147.84,2,0.0,73.77
+CR-2024-01006,2024-11-27,Economico,Diego Hernandez,Consumidor,Caribe,Limon,Oficina,Organizadores,206.12,2,0.1,63.81
+CR-2024-01007,2024-06-16,Estandar,Lucia Sanchez,Consumidor,Norte,San Carlos,Oficina,Utiles,170.64,2,0.0,73.91
+CR-2022-01008,2022-05-19,Estandar,Fernando Arias,Corporativo,Caribe,Limon,Tecnologia,Tablets,1497.4,2,0.1,333.72
+CR-2022-01008,2022-05-19,Express,Fernando Arias,Corporativo,Caribe,Limon,Muebles,Sillas,236.14,1,0.0,27.73
+CR-2022-01009,2022-12-21,Express,Valentina Castro,Consumidor,Caribe,Limon,Tecnologia,Laptops,661.73,1,0.0,216.37
+CR-2022-01009,2022-12-21,Estandar,Valentina Castro,Consumidor,Caribe,Limon,Tecnologia,Telefonos,1991.22,2,0.0,155.27
+CR-2024-01010,2024-04-12,Economico,Ana Mora,Gobierno,Pacifico,Guanacaste,Muebles,Escritorios,565.19,2,0.05,66.29
+CR-2022-01011,2022-11-14,Estandar,Daniela Zuniga,Corporativo,Pacifico,Puntarenas,Muebles,Sillas,241.07,2,0.05,52.1
+CR-2024-01012,2024-11-06,Economico,Camila Brenes,Corporativo,Pacifico,Puntarenas,Muebles,Sillas,534.93,3,0.0,83.84
+CR-2024-01012,2024-11-06,Economico,Camila Brenes,Corporativo,Pacifico,Puntarenas,Muebles,Estantes,1238.1,2,0.0,99.02
+CR-2024-01012,2024-11-06,Estandar,Camila Brenes,Corporativo,Pacifico,Puntarenas,Tecnologia,Laptops,413.38,1,0.05,77.37
+CR-2024-01013,2024-07-27,Economico,Andres Rojas,Corporativo,Central,San Jose,Muebles,Estantes,2406.93,3,0.0,135.47
+CR-2024-01014,2024-12-19,Express,Isabella Monge,Gobierno,Caribe,Limon,Tecnologia,Telefonos,1126.5,1,0.0,127.51
+CR-2023-01015,2023-06-25,Economico,Valentina Castro,Consumidor,Caribe,Limon,Tecnologia,Tablets,104.77,2,0.05,13.47
+CR-2023-01015,2023-06-25,Economico,Valentina Castro,Consumidor,Caribe,Limon,Oficina,Utiles,214.64,2,0.0,113.33
+CR-2022-01016,2022-03-15,Economico,Daniela Zuniga,Consumidor,Pacifico,Guanacaste,Tecnologia,Tablets,1353.44,1,0.0,109.41
+CR-2022-01017,2022-11-13,Economico,Diego Hernandez,Gobierno,Pacifico,Puntarenas,Tecnologia,Telefonos,837.19,3,0.1,145.26
+CR-2022-01017,2022-11-13,Express,Diego Hernandez,Gobierno,Pacifico,Puntarenas,Muebles,Mesas,421.08,2,0.0,12.17
+CR-2022-01017,2022-11-13,Estandar,Diego Hernandez,Gobierno,Pacifico,Puntarenas,Tecnologia,Telefonos,1234.05,1,0.0,356.15
+CR-2022-01018,2022-02-18,Express,Mateo Calderon,Consumidor,Norte,Upala,Muebles,Sillas,699.09,2,0.05,149.63
+CR-2022-01018,2022-02-18,Estandar,Mateo Calderon,Consumidor,Norte,Upala,Tecnologia,Laptops,1255.62,1,0.05,433.27
+CR-2022-01018,2022-02-18,Economico,Mateo Calderon,Consumidor,Norte,Upala,Oficina,Papel,136.02,2,0.0,53.39
+CR-2024-01019,2024-02-28,Express,Fernando Arias,Consumidor,Pacifico,Guanacaste,Oficina,Papel,282.39,3,0.1,64.61
+CR-2023-01020,2023-11-08,Economico,Andres Rojas,Gobierno,Central,Alajuela,Muebles,Escritorios,660.19,2,0.05,42.33
+CR-2022-01021,2022-12-23,Express,Maria Lopez,Corporativo,Caribe,Limon,Tecnologia,Telefonos,1279.35,2,0.05,242.43
+CR-2024-01022,2024-11-12,Estandar,Andres Rojas,Consumidor,Pacifico,Puntarenas,Muebles,Mesas,469.74,3,0.0,42.93
+CR-2024-01022,2024-11-12,Express,Andres Rojas,Consumidor,Pacifico,Puntarenas,Tecnologia,Tablets,333.48,3,0.05,93.56
+CR-2023-01023,2023-02-03,Estandar,Mateo Calderon,Consumidor,Norte,Upala,Tecnologia,Telefonos,3629.77,3,0.1,1029.13
+CR-2023-01023,2023-02-03,Express,Mateo Calderon,Consumidor,Norte,Upala,Oficina,Utiles,80.1,1,0.0,39.2
+CR-2024-01024,2024-08-09,Express,Laura Jimenez,Corporativo,Caribe,Limon,Muebles,Escritorios,1369.93,2,0.1,261.71
+CR-2024-01024,2024-08-09,Express,Laura Jimenez,Corporativo,Caribe,Limon,Muebles,Mesas,1392.92,2,0.0,277.0
+CR-2024-01024,2024-08-09,Economico,Laura Jimenez,Corporativo,Caribe,Limon,Muebles,Sillas,881.4,2,0.0,85.71
+CR-2022-01025,2022-10-11,Economico,Lucia Sanchez,Corporativo,Norte,San Carlos,Muebles,Sillas,524.94,1,0.0,61.23
+CR-2024-01026,2024-02-19,Express,Pablo Solano,Corporativo,Caribe,Limon,Oficina,Impresion,168.38,2,0.0,40.04
+CR-2024-01026,2024-02-19,Express,Pablo Solano,Corporativo,Caribe,Limon,Tecnologia,Telefonos,1104.91,2,0.1,295.29
+CR-2024-01027,2024-12-29,Express,Andres Rojas,Consumidor,Norte,San Carlos,Muebles,Escritorios,229.02,1,0.0,28.53
+CR-2023-01028,2023-07-24,Economico,Maria Lopez,Corporativo,Norte,Upala,Oficina,Papel,37.65,3,0.0,6.68
+CR-2022-01029,2022-03-05,Express,Carlos Ramirez,Corporativo,Pacifico,Puntarenas,Oficina,Utiles,61.53,3,0.05,15.54
+CR-2022-01030,2022-08-23,Estandar,Sofia Vargas,Consumidor,Pacifico,Guanacaste,Oficina,Utiles,309.66,3,0.0,135.01
+CR-2022-01030,2022-08-23,Economico,Sofia Vargas,Consumidor,Pacifico,Guanacaste,Tecnologia,Laptops,1007.88,1,0.05,293.96
+CR-2022-01030,2022-08-23,Estandar,Sofia Vargas,Consumidor,Pacifico,Guanacaste,Muebles,Escritorios,1033.7,2,0.0,174.63
+CR-2024-01031,2024-11-30,Express,Pablo Solano,Consumidor,Norte,San Carlos,Oficina,Organizadores,83.9,2,0.05,28.81
+CR-2024-01031,2024-11-30,Estandar,Pablo Solano,Consumidor,Norte,San Carlos,Muebles,Escritorios,1556.8,2,0.0,346.82
+CR-2024-01032,2024-02-16,Estandar,Isabella Monge,Consumidor,Norte,Upala,Muebles,Mesas,969.52,3,0.1,81.0
+CR-2022-01033,2022-11-25,Express,Diego Hernandez,Corporativo,Norte,San Carlos,Muebles,Estantes,730.2,1,0.0,130.79
+CR-2022-01033,2022-11-25,Express,Diego Hernandez,Corporativo,Norte,San Carlos,Muebles,Escritorios,453.77,1,0.15,66.52
+CR-2023-01034,2023-07-09,Express,Maria Lopez,Corporativo,Pacifico,Puntarenas,Oficina,Organizadores,285.76,2,0.0,127.29
+CR-2022-01035,2022-07-25,Estandar,Mateo Calderon,Consumidor,Caribe,Limon,Oficina,Impresion,23.35,1,0.0,6.23
+CR-2022-01036,2022-07-30,Express,Pablo Solano,Consumidor,Caribe,Limon,Tecnologia,Laptops,1248.27,3,0.0,86.88
+CR-2022-01037,2022-12-20,Express,Gabriela Quesada,Gobierno,Caribe,Limon,Muebles,Escritorios,1154.36,2,0.0,161.83
+CR-2022-01037,2022-12-20,Economico,Gabriela Quesada,Gobierno,Caribe,Limon,Muebles,Sillas,2356.02,3,0.0,383.65
+CR-2023-01038,2023-03-02,Estandar,Laura Jimenez,Consumidor,Caribe,Limon,Tecnologia,Accesorios,51.19,1,0.05,7.03
+CR-2023-01038,2023-03-02,Express,Laura Jimenez,Consumidor,Caribe,Limon,Oficina,Utiles,137.97,3,0.0,33.58
+CR-2024-01039,2024-10-20,Express,Daniela Zuniga,Corporativo,Pacifico,Guanacaste,Muebles,Estantes,965.5,2,0.15,116.83
+CR-2024-01040,2024-04-04,Economico,Gabriela Quesada,Consumidor,Norte,Upala,Oficina,Papel,51.74,1,0.0,27.67
+CR-2024-01040,2024-04-04,Economico,Gabriela Quesada,Consumidor,Norte,Upala,Oficina,Impresion,223.4,2,0.1,49.17
+CR-2024-01040,2024-04-04,Estandar,Gabriela Quesada,Consumidor,Norte,Upala,Muebles,Escritorios,434.76,2,0.05,57.87
+CR-2023-01041,2023-12-14,Express,Laura Jimenez,Gobierno,Caribe,Limon,Muebles,Sillas,854.12,3,0.1,125.15
+CR-2023-01042,2023-10-07,Express,Maria Lopez,Gobierno,Central,Heredia,Oficina,Impresion,68.39,1,0.05,27.29
+CR-2023-01042,2023-10-07,Economico,Maria Lopez,Gobierno,Central,Heredia,Tecnologia,Tablets,586.77,2,0.15,106.46
+CR-2022-01043,2022-12-06,Economico,Jose Garcia,Consumidor,Pacifico,Puntarenas,Tecnologia,Telefonos,751.64,2,0.0,251.14
+CR-2022-01043,2022-12-06,Express,Jose Garcia,Consumidor,Pacifico,Puntarenas,Muebles,Escritorios,760.3,1,0.1,87.86
+CR-2023-01044,2023-05-15,Economico,Ricardo Chaves,Consumidor,Pacifico,Guanacaste,Tecnologia,Accesorios,1172.56,1,0.1,204.59
+CR-2023-01044,2023-05-15,Express,Ricardo Chaves,Consumidor,Pacifico,Guanacaste,Tecnologia,Telefonos,437.11,1,0.05,152.84
+CR-2024-01045,2024-07-03,Express,Sebastian Vega,Corporativo,Caribe,Limon,Muebles,Sillas,2379.21,3,0.0,257.15
+CR-2023-01046,2023-10-14,Estandar,Sofia Vargas,Gobierno,Norte,Upala,Muebles,Escritorios,740.49,1,0.15,71.35
+CR-2023-01046,2023-10-14,Economico,Sofia Vargas,Gobierno,Norte,Upala,Tecnologia,Telefonos,731.37,1,0.1,126.52
+CR-2023-01046,2023-10-14,Economico,Sofia Vargas,Gobierno,Norte,Upala,Tecnologia,Laptops,2192.28,3,0.0,565.19
+CR-2023-01047,2023-11-04,Estandar,Isabella Monge,Corporativo,Norte,Upala,Oficina,Papel,9.7,1,0.05,5.03
+CR-2024-01048,2024-06-07,Estandar,Lucia Sanchez,Consumidor,Central,Heredia,Tecnologia,Tablets,520.34,1,0.0,93.25
+CR-2024-01048,2024-06-07,Express,Lucia Sanchez,Consumidor,Central,Heredia,Oficina,Utiles,103.86,1,0.0,40.9
+CR-2024-01048,2024-06-07,Express,Lucia Sanchez,Consumidor,Central,Heredia,Muebles,Sillas,787.09,1,0.05,61.72
+CR-2024-01049,2024-08-10,Estandar,Valentina Castro,Consumidor,Pacifico,Puntarenas,Muebles,Escritorios,603.93,1,0.0,129.49
+CR-2024-01049,2024-08-10,Economico,Valentina Castro,Consumidor,Pacifico,Puntarenas,Muebles,Estantes,167.46,1,0.0,14.74
+CR-2024-01049,2024-08-10,Economico,Valentina Castro,Consumidor,Pacifico,Puntarenas,Tecnologia,Laptops,2936.04,2,0.0,645.28
+CR-2024-01050,2024-10-14,Estandar,Gabriela Quesada,Corporativo,Caribe,Limon,Tecnologia,Laptops,1710.52,2,0.1,423.79
+CR-2022-01051,2022-03-22,Express,Pablo Solano,Corporativo,Norte,San Carlos,Muebles,Estantes,347.91,1,0.0,69.89
+CR-2022-01052,2022-12-03,Economico,Sofia Vargas,Corporativo,Norte,Upala,Muebles,Escritorios,739.13,1,0.15,161.01
+CR-2022-01052,2022-12-03,Express,Sofia Vargas,Corporativo,Norte,Upala,Oficina,Organizadores,116.08,2,0.0,42.33
+CR-2023-01053,2023-06-21,Express,Maria Lopez,Corporativo,Caribe,Limon,Oficina,Organizadores,99.86,2,0.05,40.36
+CR-2024-01054,2024-10-16,Economico,Andres Rojas,Gobierno,Central,Heredia,Oficina,Impresion,23.44,1,0.05,10.48
+CR-2022-01055,2022-11-13,Economico,Fernando Arias,Corporativo,Central,Heredia,Muebles,Estantes,258.16,1,0.0,26.7
+CR-2024-01056,2024-11-05,Estandar,Lucia Sanchez,Gobierno,Pacifico,Puntarenas,Tecnologia,Telefonos,1960.94,2,0.0,560.9
+CR-2023-01057,2023-12-25,Estandar,Sebastian Vega,Corporativo,Pacifico,Puntarenas,Tecnologia,Accesorios,2387.06,2,0.0,824.03
+CR-2022-01058,2022-12-24,Economico,Maria Lopez,Consumidor,Central,San Jose,Tecnologia,Laptops,272.39,1,0.1,56.61
+CR-2022-01058,2022-12-24,Estandar,Maria Lopez,Consumidor,Central,San Jose,Muebles,Sillas,425.21,1,0.05,52.71
+CR-2024-01059,2024-12-03,Economico,Ana Mora,Gobierno,Central,San Jose,Tecnologia,Telefonos,2282.67,3,0.0,169.46
+CR-2022-01060,2022-12-15,Economico,Daniel Cordero,Gobierno,Caribe,Limon,Oficina,Utiles,83.51,1,0.1,41.01
+CR-2024-01061,2024-05-30,Estandar,Lucia Sanchez,Consumidor,Pacifico,Guanacaste,Oficina,Impresion,17.85,1,0.05,5.35
+CR-2022-01062,2022-10-18,Estandar,Andres Rojas,Consumidor,Central,Heredia,Tecnologia,Tablets,1627.81,2,0.05,242.37
+CR-2023-01063,2023-12-26,Estandar,Ricardo Chaves,Gobierno,Norte,San Carlos,Tecnologia,Accesorios,843.58,1,0.05,98.93
+CR-2024-01064,2024-11-23,Economico,Lucia Sanchez,Corporativo,Pacifico,Guanacaste,Oficina,Organizadores,195.45,2,0.05,80.75
+CR-2024-01064,2024-11-23,Estandar,Lucia Sanchez,Corporativo,Pacifico,Guanacaste,Tecnologia,Telefonos,623.2,2,0.0,94.69
+CR-2022-01065,2022-10-21,Express,Ana Mora,Consumidor,Norte,San Carlos,Tecnologia,Accesorios,1131.86,1,0.0,172.35
+CR-2022-01065,2022-10-21,Estandar,Ana Mora,Consumidor,Norte,San Carlos,Oficina,Utiles,148.31,3,0.05,74.65
+CR-2022-01065,2022-10-21,Economico,Ana Mora,Consumidor,Norte,San Carlos,Oficina,Impresion,12.22,1,0.0,3.91
+CR-2024-01066,2024-12-28,Economico,Camila Brenes,Consumidor,Central,Heredia,Oficina,Papel,151.12,2,0.0,46.56
+CR-2024-01066,2024-12-28,Express,Camila Brenes,Consumidor,Central,Heredia,Tecnologia,Accesorios,935.31,3,0.1,261.18
+CR-2022-01067,2022-12-03,Economico,Lucia Sanchez,Consumidor,Norte,San Carlos,Oficina,Papel,172.02,2,0.0,53.12
+CR-2022-01067,2022-12-03,Economico,Lucia Sanchez,Consumidor,Norte,San Carlos,Muebles,Escritorios,257.5,3,0.1,39.25
+CR-2024-01068,2024-11-05,Economico,Daniela Zuniga,Consumidor,Central,Heredia,Oficina,Impresion,124.53,1,0.1,30.8
+CR-2024-01069,2024-12-09,Express,Sebastian Vega,Consumidor,Caribe,Limon,Oficina,Utiles,193.64,2,0.0,89.17
+CR-2023-01070,2023-11-29,Economico,Isabella Monge,Corporativo,Pacifico,Puntarenas,Tecnologia,Tablets,583.03,2,0.05,161.11
+CR-2023-01070,2023-11-29,Economico,Isabella Monge,Corporativo,Pacifico,Puntarenas,Oficina,Organizadores,264.1,2,0.05,105.59
+CR-2022-01071,2022-11-06,Express,Gabriela Quesada,Corporativo,Norte,Upala,Muebles,Sillas,471.22,1,0.05,15.59
+CR-2022-01071,2022-11-06,Express,Gabriela Quesada,Corporativo,Norte,Upala,Oficina,Papel,371.41,3,0.05,131.04
+CR-2024-01072,2024-07-10,Estandar,Valentina Castro,Corporativo,Pacifico,Guanacaste,Tecnologia,Telefonos,1265.87,2,0.1,436.37
+CR-2022-01073,2022-11-22,Express,Camila Brenes,Consumidor,Norte,San Carlos,Muebles,Sillas,604.87,1,0.05,58.65
+CR-2024-01074,2024-12-02,Economico,Andres Rojas,Consumidor,Pacifico,Guanacaste,Muebles,Sillas,635.34,2,0.05,31.55
+CR-2023-01075,2023-09-27,Express,Andres Rojas,Corporativo,Caribe,Limon,Oficina,Utiles,35.24,2,0.05,5.54
+CR-2023-01075,2023-09-27,Estandar,Andres Rojas,Corporativo,Caribe,Limon,Tecnologia,Laptops,1091.02,2,0.0,381.85
+CR-2023-01075,2023-09-27,Economico,Andres Rojas,Corporativo,Caribe,Limon,Muebles,Sillas,695.19,1,0.1,147.43
+CR-2023-01076,2023-11-21,Economico,Sofia Vargas,Consumidor,Pacifico,Guanacaste,Oficina,Utiles,122.31,1,0.0,38.45
+CR-2023-01076,2023-11-21,Estandar,Sofia Vargas,Consumidor,Pacifico,Guanacaste,Muebles,Estantes,1045.24,2,0.1,77.16
+CR-2024-01077,2024-08-18,Estandar,Sofia Vargas,Corporativo,Pacifico,Guanacaste,Muebles,Mesas,1350.79,2,0.05,157.09
+CR-2024-01077,2024-08-18,Economico,Sofia Vargas,Corporativo,Pacifico,Guanacaste,Oficina,Papel,23.82,1,0.05,11.9
+CR-2024-01077,2024-08-18,Express,Sofia Vargas,Corporativo,Pacifico,Guanacaste,Oficina,Impresion,382.95,3,0.0,174.34
+CR-2024-01078,2024-11-17,Express,Lucia Sanchez,Gobierno,Norte,San Carlos,Muebles,Sillas,842.99,1,0.0,89.37
+CR-2024-01078,2024-11-17,Express,Lucia Sanchez,Gobierno,Norte,San Carlos,Muebles,Mesas,264.12,1,0.0,48.7
+CR-2022-01079,2022-10-09,Economico,Maria Lopez,Corporativo,Norte,San Carlos,Tecnologia,Tablets,1363.49,1,0.0,129.34
+CR-2022-01080,2022-08-16,Estandar,Carlos Ramirez,Consumidor,Pacifico,Guanacaste,Oficina,Utiles,60.59,1,0.15,23.55
+CR-2022-01081,2022-10-22,Economico,Sofia Vargas,Consumidor,Central,Alajuela,Oficina,Papel,203.78,2,0.0,108.28
+CR-2024-01082,2024-03-10,Estandar,Daniel Cordero,Consumidor,Central,Alajuela,Tecnologia,Accesorios,567.79,1,0.0,140.32
+CR-2022-01083,2022-10-01,Express,Daniel Cordero,Corporativo,Caribe,Limon,Oficina,Papel,74.39,1,0.0,32.47
+CR-2023-01084,2023-10-24,Estandar,Fernando Arias,Gobierno,Central,Heredia,Oficina,Organizadores,69.96,1,0.05,18.5
+CR-2023-01085,2023-11-14,Estandar,Daniela Zuniga,Corporativo,Norte,Upala,Tecnologia,Tablets,654.07,1,0.15,134.6
+CR-2022-01086,2022-06-11,Express,Maria Lopez,Consumidor,Pacifico,Guanacaste,Muebles,Escritorios,662.66,2,0.0,118.38
+CR-2022-01087,2022-03-28,Estandar,Isabella Monge,Consumidor,Caribe,Limon,Oficina,Utiles,115.02,2,0.1,24.61
+CR-2024-01088,2024-10-16,Economico,Diego Hernandez,Consumidor,Pacifico,Guanacaste,Tecnologia,Telefonos,3103.92,3,0.0,865.76
+CR-2024-01089,2024-12-20,Express,Andres Rojas,Consumidor,Caribe,Limon,Tecnologia,Tablets,734.93,1,0.05,94.46
+CR-2023-01090,2023-03-16,Express,Isabella Monge,Consumidor,Caribe,Limon,Muebles,Estantes,376.69,2,0.15,77.76
+CR-2023-01090,2023-03-16,Economico,Isabella Monge,Consumidor,Caribe,Limon,Oficina,Utiles,25.96,2,0.1,12.73
+CR-2023-01090,2023-03-16,Express,Isabella Monge,Consumidor,Caribe,Limon,Muebles,Sillas,497.18,1,0.0,25.82
+CR-2024-01091,2024-01-10,Express,Carlos Ramirez,Corporativo,Caribe,Limon,Tecnologia,Tablets,130.8,1,0.1,25.32
+CR-2022-01092,2022-11-01,Estandar,Camila Brenes,Consumidor,Central,Heredia,Oficina,Papel,83.1,1,0.15,26.85
+CR-2024-01093,2024-11-27,Economico,Carlos Ramirez,Consumidor,Pacifico,Puntarenas,Oficina,Organizadores,269.52,2,0.0,108.89
+CR-2022-01094,2022-09-14,Economico,Fernando Arias,Corporativo,Central,Alajuela,Tecnologia,Laptops,507.01,2,0.15,76.7
+CR-2022-01094,2022-09-14,Estandar,Fernando Arias,Corporativo,Central,Alajuela,Tecnologia,Tablets,452.98,3,0.1,58.61
+CR-2022-01094,2022-09-14,Express,Fernando Arias,Corporativo,Central,Alajuela,Oficina,Impresion,92.77,1,0.05,24.66
+CR-2023-01095,2023-05-17,Economico,Lucia Sanchez,Consumidor,Norte,Upala,Muebles,Estantes,420.81,1,0.0,22.32
+CR-2023-01096,2023-12-09,Express,Pablo Solano,Corporativo,Pacifico,Guanacaste,Muebles,Escritorios,180.47,1,0.0,5.71
+CR-2023-01097,2023-05-24,Estandar,Laura Jimenez,Gobierno,Pacifico,Guanacaste,Tecnologia,Laptops,1467.73,2,0.05,209.24
+CR-2024-01098,2024-03-16,Estandar,Camila Brenes,Corporativo,Pacifico,Puntarenas,Muebles,Sillas,1082.94,2,0.05,92.83
+CR-2024-01099,2024-11-01,Economico,Ana Mora,Consumidor,Caribe,Limon,Oficina,Organizadores,66.46,2,0.0,23.37
+CR-2022-01100,2022-10-01,Estandar,Sofia Vargas,Corporativo,Norte,Upala,Muebles,Sillas,664.12,1,0.05,89.67
+CR-2022-01100,2022-10-01,Economico,Sofia Vargas,Corporativo,Norte,Upala,Tecnologia,Telefonos,2060.95,2,0.05,195.14
+CR-2023-01101,2023-11-03,Economico,Mateo Calderon,Consumidor,Caribe,Limon,Muebles,Estantes,1077.02,2,0.05,142.88
+CR-2023-01101,2023-11-03,Economico,Mateo Calderon,Consumidor,Caribe,Limon,Muebles,Estantes,711.46,1,0.05,174.58
+CR-2022-01102,2022-02-24,Economico,Andres Rojas,Corporativo,Caribe,Limon,Oficina,Utiles,173.18,2,0.1,36.21
+CR-2022-01103,2022-03-06,Economico,Maria Lopez,Consumidor,Central,San Jose,Muebles,Sillas,581.59,1,0.1,134.77
+CR-2022-01104,2022-10-10,Economico,Maria Lopez,Corporativo,Caribe,Limon,Muebles,Estantes,827.94,1,0.0,163.57
+CR-2022-01104,2022-10-10,Express,Maria Lopez,Corporativo,Caribe,Limon,Oficina,Organizadores,225.63,3,0.0,60.78
+CR-2022-01104,2022-10-10,Economico,Maria Lopez,Corporativo,Caribe,Limon,Oficina,Organizadores,70.12,2,0.0,20.3
+CR-2023-01105,2023-12-13,Economico,Mateo Calderon,Corporativo,Norte,Upala,Muebles,Estantes,343.47,3,0.0,79.86
+CR-2023-01105,2023-12-13,Economico,Mateo Calderon,Corporativo,Norte,Upala,Oficina,Organizadores,70.75,1,0.05,37.02
+CR-2022-01106,2022-10-09,Estandar,Daniel Cordero,Consumidor,Pacifico,Puntarenas,Tecnologia,Laptops,113.5,1,0.1,9.1
+CR-2022-01107,2022-11-20,Estandar,Ricardo Chaves,Corporativo,Norte,Upala,Muebles,Sillas,282.64,1,0.1,48.06
+CR-2022-01107,2022-11-20,Express,Ricardo Chaves,Corporativo,Norte,Upala,Tecnologia,Tablets,1115.08,2,0.15,67.91
+CR-2022-01107,2022-11-20,Estandar,Ricardo Chaves,Corporativo,Norte,Upala,Tecnologia,Accesorios,3590.6,3,0.15,1123.94
+CR-2022-01108,2022-08-08,Estandar,Laura Jimenez,Consumidor,Caribe,Limon,Muebles,Estantes,768.73,1,0.05,63.61
+CR-2022-01108,2022-08-08,Express,Laura Jimenez,Consumidor,Caribe,Limon,Tecnologia,Accesorios,1998.22,2,0.1,108.35
+CR-2023-01109,2023-12-31,Express,Ana Mora,Corporativo,Norte,Upala,Tecnologia,Tablets,317.93,1,0.0,39.55
+CR-2023-01110,2023-04-28,Express,Diego Hernandez,Consumidor,Caribe,Limon,Muebles,Mesas,1232.04,2,0.0,58.14
+CR-2023-01110,2023-04-28,Economico,Diego Hernandez,Consumidor,Caribe,Limon,Muebles,Sillas,1734.97,3,0.1,341.9
+CR-2023-01111,2023-08-28,Economico,Ana Mora,Gobierno,Pacifico,Puntarenas,Oficina,Utiles,133.54,1,0.1,68.79
+CR-2023-01112,2023-05-22,Economico,Maria Lopez,Consumidor,Central,Alajuela,Oficina,Utiles,36.16,2,0.15,8.35
+CR-2022-01113,2022-12-03,Express,Jose Garcia,Corporativo,Norte,San Carlos,Tecnologia,Tablets,1353.39,1,0.0,121.24
+CR-2022-01113,2022-12-03,Express,Jose Garcia,Corporativo,Norte,San Carlos,Oficina,Organizadores,12.03,1,0.1,5.28
+CR-2022-01114,2022-01-07,Express,Sebastian Vega,Consumidor,Central,San Jose,Tecnologia,Telefonos,1194.38,1,0.15,71.09
+CR-2022-01115,2022-10-05,Economico,Mateo Calderon,Gobierno,Norte,Upala,Muebles,Estantes,737.26,2,0.05,106.19
+CR-2022-01116,2022-12-31,Express,Mateo Calderon,Corporativo,Norte,San Carlos,Tecnologia,Telefonos,1321.93,1,0.1,234.3
+CR-2022-01116,2022-12-31,Estandar,Mateo Calderon,Corporativo,Norte,San Carlos,Tecnologia,Laptops,717.91,1,0.0,224.39
+CR-2024-01117,2024-05-08,Express,Diego Hernandez,Consumidor,Central,San Jose,Muebles,Escritorios,1140.36,2,0.0,217.04
+CR-2024-01117,2024-05-08,Express,Diego Hernandez,Consumidor,Central,San Jose,Tecnologia,Telefonos,1498.77,2,0.1,137.95
+CR-2023-01118,2023-10-16,Economico,Lucia Sanchez,Consumidor,Caribe,Limon,Oficina,Utiles,37.05,1,0.0,19.61
+CR-2023-01118,2023-10-16,Economico,Lucia Sanchez,Consumidor,Caribe,Limon,Oficina,Impresion,206.84,2,0.0,59.52
+CR-2023-01118,2023-10-16,Economico,Lucia Sanchez,Consumidor,Caribe,Limon,Oficina,Impresion,51.22,1,0.0,15.4
+CR-2023-01119,2023-05-09,Economico,Isabella Monge,Corporativo,Caribe,Limon,Muebles,Sillas,536.98,1,0.0,35.85
+CR-2023-01119,2023-05-09,Express,Isabella Monge,Corporativo,Caribe,Limon,Muebles,Escritorios,697.18,1,0.1,44.49
+CR-2022-01120,2022-03-22,Express,Diego Hernandez,Consumidor,Pacifico,Puntarenas,Tecnologia,Telefonos,321.41,1,0.1,88.09
+CR-2023-01121,2023-02-23,Estandar,Mateo Calderon,Corporativo,Pacifico,Guanacaste,Oficina,Impresion,54.24,1,0.05,18.92
+CR-2023-01122,2023-10-18,Express,Laura Jimenez,Consumidor,Caribe,Limon,Oficina,Organizadores,22.24,1,0.15,8.49
+CR-2023-01122,2023-10-18,Economico,Laura Jimenez,Consumidor,Caribe,Limon,Tecnologia,Accesorios,317.76,1,0.05,39.31
+CR-2023-01122,2023-10-18,Express,Laura Jimenez,Consumidor,Caribe,Limon,Muebles,Mesas,635.36,1,0.1,120.79
+CR-2023-01123,2023-12-23,Estandar,Daniela Zuniga,Gobierno,Norte,San Carlos,Tecnologia,Laptops,1619.44,2,0.0,478.38
+CR-2023-01123,2023-12-23,Estandar,Daniela Zuniga,Gobierno,Norte,San Carlos,Muebles,Escritorios,385.48,2,0.0,21.1
+CR-2023-01123,2023-12-23,Economico,Daniela Zuniga,Gobierno,Norte,San Carlos,Muebles,Escritorios,220.27,2,0.15,50.65
+CR-2022-01124,2022-12-02,Estandar,Laura Jimenez,Consumidor,Norte,San Carlos,Muebles,Sillas,178.71,2,0.05,36.71
+CR-2022-01125,2022-07-17,Estandar,Laura Jimenez,Corporativo,Pacifico,Puntarenas,Muebles,Mesas,622.07,1,0.15,78.11
+CR-2022-01125,2022-07-17,Estandar,Laura Jimenez,Corporativo,Pacifico,Puntarenas,Muebles,Sillas,1217.73,2,0.05,264.72
+CR-2024-01126,2024-04-10,Estandar,Sebastian Vega,Corporativo,Norte,San Carlos,Muebles,Sillas,1546.34,2,0.0,378.52
+CR-2023-01127,2023-12-16,Express,Sebastian Vega,Consumidor,Norte,Upala,Muebles,Sillas,1634.88,2,0.0,381.93
+CR-2023-01127,2023-12-16,Estandar,Sebastian Vega,Consumidor,Norte,Upala,Tecnologia,Accesorios,1622.16,2,0.1,274.94
+CR-2022-01128,2022-11-29,Express,Andres Rojas,Consumidor,Norte,Upala,Oficina,Utiles,187.0,2,0.15,32.07
+CR-2022-01129,2022-06-05,Economico,Andres Rojas,Consumidor,Norte,Upala,Muebles,Escritorios,409.95,1,0.15,48.92
+CR-2022-01129,2022-06-05,Express,Andres Rojas,Consumidor,Norte,Upala,Tecnologia,Telefonos,1169.64,1,0.0,84.27
+CR-2024-01130,2024-02-18,Express,Pablo Solano,Consumidor,Pacifico,Guanacaste,Muebles,Escritorios,889.36,2,0.0,35.64
+CR-2024-01131,2024-11-15,Economico,Jose Garcia,Consumidor,Central,San Jose,Muebles,Mesas,788.25,1,0.0,157.03
+CR-2024-01131,2024-11-15,Express,Jose Garcia,Consumidor,Central,San Jose,Oficina,Impresion,161.12,2,0.0,41.5
+CR-2022-01132,2022-10-26,Estandar,Jose Garcia,Consumidor,Norte,Upala,Muebles,Escritorios,272.07,1,0.05,42.6
+CR-2022-01132,2022-10-26,Express,Jose Garcia,Consumidor,Norte,Upala,Tecnologia,Accesorios,246.46,1,0.0,74.55
+CR-2024-01133,2024-06-20,Economico,Mateo Calderon,Consumidor,Pacifico,Guanacaste,Muebles,Escritorios,225.66,1,0.0,42.65
+CR-2023-01134,2023-05-12,Economico,Laura Jimenez,Consumidor,Caribe,Limon,Oficina,Utiles,62.18,2,0.0,27.41
+CR-2024-01135,2024-06-16,Express,Daniel Cordero,Corporativo,Central,Heredia,Tecnologia,Tablets,416.39,1,0.0,67.91
+CR-2024-01135,2024-06-16,Economico,Daniel Cordero,Corporativo,Central,Heredia,Oficina,Papel,107.3,2,0.15,45.78
+CR-2024-01136,2024-01-07,Express,Valentina Castro,Corporativo,Central,San Jose,Tecnologia,Accesorios,839.93,1,0.15,212.71
+CR-2024-01136,2024-01-07,Economico,Valentina Castro,Corporativo,Central,San Jose,Muebles,Mesas,166.87,1,0.0,32.0
+CR-2024-01137,2024-07-01,Estandar,Sofia Vargas,Consumidor,Norte,San Carlos,Muebles,Estantes,1263.3,3,0.0,298.59
+CR-2023-01138,2023-10-01,Estandar,Laura Jimenez,Consumidor,Pacifico,Guanacaste,Oficina,Organizadores,70.6,1,0.0,30.66
+CR-2022-01139,2022-08-12,Estandar,Carlos Ramirez,Corporativo,Pacifico,Puntarenas,Oficina,Impresion,60.14,1,0.1,24.17
+CR-2024-01140,2024-12-21,Estandar,Sebastian Vega,Corporativo,Pacifico,Guanacaste,Tecnologia,Telefonos,627.1,2,0.1,43.13
+CR-2024-01141,2024-01-20,Express,Diego Hernandez,Consumidor,Norte,San Carlos,Oficina,Impresion,50.44,1,0.0,9.87
+CR-2024-01141,2024-01-20,Economico,Diego Hernandez,Consumidor,Norte,San Carlos,Oficina,Papel,54.04,2,0.1,27.96
+CR-2022-01142,2022-10-02,Express,Daniel Cordero,Consumidor,Pacifico,Guanacaste,Oficina,Utiles,116.53,2,0.05,37.2
+CR-2022-01142,2022-10-02,Economico,Daniel Cordero,Consumidor,Pacifico,Guanacaste,Oficina,Papel,29.2,1,0.0,14.21
+CR-2024-01143,2024-01-06,Express,Daniela Zuniga,Consumidor,Norte,San Carlos,Oficina,Impresion,94.72,1,0.05,41.11
+CR-2024-01143,2024-01-06,Express,Daniela Zuniga,Consumidor,Norte,San Carlos,Tecnologia,Telefonos,152.88,1,0.1,21.04
+CR-2024-01143,2024-01-06,Express,Daniela Zuniga,Consumidor,Norte,San Carlos,Oficina,Papel,89.03,2,0.05,40.87
+CR-2022-01144,2022-12-22,Estandar,Camila Brenes,Corporativo,Caribe,Limon,Muebles,Escritorios,295.16,2,0.1,26.11
+CR-2022-01144,2022-12-22,Estandar,Camila Brenes,Corporativo,Caribe,Limon,Muebles,Mesas,731.66,2,0.0,181.9
+CR-2023-01145,2023-12-20,Economico,Camila Brenes,Corporativo,Norte,San Carlos,Tecnologia,Accesorios,1665.56,2,0.05,167.41
+CR-2023-01145,2023-12-20,Estandar,Camila Brenes,Corporativo,Norte,San Carlos,Muebles,Mesas,1566.47,3,0.05,355.64
+CR-2024-01146,2024-04-22,Estandar,Ricardo Chaves,Corporativo,Caribe,Limon,Oficina,Organizadores,46.53,1,0.1,14.29
+CR-2024-01147,2024-04-28,Express,Lucia Sanchez,Corporativo,Central,Alajuela,Oficina,Organizadores,204.7,2,0.1,67.94
+CR-2022-01148,2022-01-06,Estandar,Ana Mora,Gobierno,Central,Alajuela,Muebles,Escritorios,1554.18,2,0.0,377.15
+CR-2022-01148,2022-01-06,Express,Ana Mora,Gobierno,Central,Alajuela,Muebles,Estantes,327.51,1,0.05,16.39
+CR-2022-01149,2022-12-10,Economico,Maria Lopez,Consumidor,Norte,San Carlos,Tecnologia,Accesorios,1264.94,1,0.15,408.35
+CR-2022-01150,2022-11-22,Economico,Laura Jimenez,Corporativo,Caribe,Limon,Oficina,Utiles,136.05,1,0.0,37.03
+CR-2024-01151,2024-05-29,Estandar,Sebastian Vega,Consumidor,Central,San Jose,Tecnologia,Tablets,803.19,1,0.0,122.95
+CR-2022-01152,2022-09-28,Estandar,Sofia Vargas,Consumidor,Pacifico,Guanacaste,Muebles,Mesas,722.17,1,0.1,139.54
+CR-2022-01153,2022-05-21,Estandar,Camila Brenes,Corporativo,Central,Alajuela,Tecnologia,Laptops,960.72,1,0.0,245.92
+CR-2022-01154,2022-10-25,Economico,Maria Lopez,Gobierno,Norte,Upala,Tecnologia,Accesorios,429.02,1,0.05,98.68
+CR-2022-01154,2022-10-25,Economico,Maria Lopez,Gobierno,Norte,Upala,Oficina,Utiles,16.0,2,0.1,3.71
+CR-2024-01155,2024-10-13,Express,Carlos Ramirez,Consumidor,Pacifico,Guanacaste,Oficina,Utiles,45.9,3,0.0,13.51
+CR-2024-01156,2024-03-03,Estandar,Laura Jimenez,Corporativo,Norte,Upala,Tecnologia,Tablets,74.2,1,0.0,4.6
+CR-2024-01156,2024-03-03,Express,Laura Jimenez,Corporativo,Norte,Upala,Oficina,Papel,83.77,2,0.1,26.76
+CR-2022-01157,2022-11-09,Economico,Camila Brenes,Corporativo,Caribe,Limon,Tecnologia,Laptops,786.38,1,0.05,236.2
+CR-2022-01157,2022-11-09,Estandar,Camila Brenes,Corporativo,Caribe,Limon,Muebles,Escritorios,1175.24,2,0.1,39.16
+CR-2022-01157,2022-11-09,Economico,Camila Brenes,Corporativo,Caribe,Limon,Tecnologia,Telefonos,1414.78,2,0.0,385.54
+CR-2022-01158,2022-10-02,Economico,Valentina Castro,Consumidor,Central,San Jose,Oficina,Papel,38.33,1,0.1,19.14
+CR-2022-01158,2022-10-02,Economico,Valentina Castro,Consumidor,Central,San Jose,Tecnologia,Laptops,508.98,1,0.05,65.6
+CR-2024-01159,2024-10-13,Estandar,Diego Hernandez,Consumidor,Caribe,Limon,Tecnologia,Laptops,398.92,1,0.05,106.45
+CR-2022-01160,2022-04-01,Economico,Ricardo Chaves,Consumidor,Central,San Jose,Tecnologia,Tablets,928.47,3,0.0,270.12
+CR-2023-01161,2023-04-05,Estandar,Sebastian Vega,Consumidor,Norte,Upala,Tecnologia,Tablets,2333.88,3,0.0,679.86
+CR-2023-01161,2023-04-05,Estandar,Sebastian Vega,Consumidor,Norte,Upala,Tecnologia,Tablets,3568.43,3,0.1,511.03
+CR-2022-01162,2022-01-17,Economico,Ana Mora,Corporativo,Caribe,Limon,Oficina,Utiles,393.98,3,0.1,174.53
+CR-2022-01163,2022-11-05,Economico,Valentina Castro,Consumidor,Norte,San Carlos,Oficina,Organizadores,396.57,3,0.0,163.75
+CR-2022-01163,2022-11-05,Estandar,Valentina Castro,Consumidor,Norte,San Carlos,Tecnologia,Accesorios,1042.59,3,0.0,352.77
+CR-2022-01164,2022-10-10,Estandar,Fernando Arias,Consumidor,Norte,Upala,Tecnologia,Tablets,1565.74,2,0.0,356.31
+CR-2022-01165,2022-11-25,Economico,Valentina Castro,Corporativo,Caribe,Limon,Muebles,Sillas,303.0,1,0.0,60.41
+CR-2022-01166,2022-11-15,Economico,Gabriela Quesada,Consumidor,Norte,Upala,Tecnologia,Accesorios,634.75,1,0.1,48.96
+CR-2022-01166,2022-11-15,Estandar,Gabriela Quesada,Consumidor,Norte,Upala,Oficina,Utiles,95.44,1,0.1,26.83
+CR-2023-01167,2023-12-30,Estandar,Laura Jimenez,Consumidor,Central,Alajuela,Muebles,Mesas,1483.46,2,0.05,61.99
+CR-2022-01168,2022-10-06,Estandar,Daniel Cordero,Corporativo,Pacifico,Puntarenas,Oficina,Utiles,29.22,2,0.15,5.26
+CR-2022-01168,2022-10-06,Express,Daniel Cordero,Corporativo,Pacifico,Puntarenas,Oficina,Papel,58.9,1,0.15,28.37
+CR-2022-01169,2022-03-29,Estandar,Gabriela Quesada,Gobierno,Central,San Jose,Muebles,Estantes,486.82,1,0.0,49.37
+CR-2022-01169,2022-03-29,Economico,Gabriela Quesada,Gobierno,Central,San Jose,Muebles,Estantes,423.44,1,0.05,68.56
+CR-2024-01170,2024-10-18,Economico,Daniela Zuniga,Consumidor,Norte,San Carlos,Tecnologia,Laptops,1963.7,2,0.0,683.81
+CR-2024-01171,2024-02-23,Estandar,Laura Jimenez,Corporativo,Caribe,Limon,Oficina,Papel,77.85,1,0.0,21.61
+CR-2023-01172,2023-11-30,Estandar,Diego Hernandez,Gobierno,Caribe,Limon,Tecnologia,Tablets,741.98,2,0.15,49.54
+CR-2023-01173,2023-12-28,Economico,Carlos Ramirez,Consumidor,Pacifico,Puntarenas,Oficina,Utiles,102.64,2,0.1,29.83
+CR-2023-01173,2023-12-28,Economico,Carlos Ramirez,Consumidor,Pacifico,Puntarenas,Oficina,Organizadores,256.52,2,0.1,138.05
+CR-2022-01174,2022-12-26,Economico,Lucia Sanchez,Consumidor,Central,San Jose,Muebles,Mesas,241.68,3,0.0,12.09
+CR-2023-01175,2023-10-25,Express,Isabella Monge,Corporativo,Pacifico,Puntarenas,Tecnologia,Accesorios,1775.13,3,0.0,142.56
+CR-2023-01175,2023-10-25,Express,Isabella Monge,Corporativo,Pacifico,Puntarenas,Tecnologia,Accesorios,2930.0,2,0.0,708.41
+CR-2023-01175,2023-10-25,Express,Isabella Monge,Corporativo,Pacifico,Puntarenas,Tecnologia,Telefonos,1935.76,2,0.1,453.19
+CR-2022-01176,2022-12-26,Economico,Maria Lopez,Consumidor,Caribe,Limon,Oficina,Organizadores,157.54,3,0.15,25.67
+CR-2022-01176,2022-12-26,Economico,Maria Lopez,Consumidor,Caribe,Limon,Oficina,Papel,62.95,2,0.15,12.98
+CR-2022-01176,2022-12-26,Economico,Maria Lopez,Consumidor,Caribe,Limon,Tecnologia,Accesorios,525.23,1,0.05,178.01
+CR-2024-01177,2024-10-03,Express,Pablo Solano,Consumidor,Pacifico,Puntarenas,Tecnologia,Tablets,1036.34,2,0.15,326.83
+CR-2024-01177,2024-10-03,Economico,Pablo Solano,Consumidor,Pacifico,Puntarenas,Muebles,Mesas,501.35,1,0.05,109.66
+CR-2022-01178,2022-11-30,Estandar,Sofia Vargas,Consumidor,Central,Heredia,Tecnologia,Accesorios,1636.86,3,0.0,118.67
+CR-2022-01178,2022-11-30,Economico,Sofia Vargas,Consumidor,Central,Heredia,Oficina,Utiles,399.25,3,0.1,128.77
+CR-2022-01178,2022-11-30,Estandar,Sofia Vargas,Consumidor,Central,Heredia,Oficina,Impresion,134.01,1,0.0,31.12
+CR-2023-01179,2023-06-28,Economico,Maria Lopez,Consumidor,Caribe,Limon,Muebles,Escritorios,205.94,1,0.0,18.07
+CR-2023-01179,2023-06-28,Express,Maria Lopez,Consumidor,Caribe,Limon,Tecnologia,Laptops,181.1,1,0.05,62.14
+CR-2023-01180,2023-09-24,Estandar,Pablo Solano,Gobierno,Norte,Upala,Oficina,Organizadores,61.19,1,0.0,13.75
+CR-2024-01181,2024-06-19,Economico,Daniela Zuniga,Corporativo,Pacifico,Guanacaste,Oficina,Utiles,34.24,2,0.1,10.81
+CR-2024-01181,2024-06-19,Economico,Daniela Zuniga,Corporativo,Pacifico,Guanacaste,Oficina,Impresion,13.15,1,0.05,7.05
+CR-2023-01182,2023-04-28,Estandar,Ana Mora,Gobierno,Central,Heredia,Oficina,Impresion,257.58,2,0.05,102.54
+CR-2022-01183,2022-12-21,Economico,Camila Brenes,Corporativo,Pacifico,Puntarenas,Tecnologia,Accesorios,1260.56,1,0.15,300.22
+CR-2023-01184,2023-10-17,Economico,Carlos Ramirez,Consumidor,Central,San Jose,Muebles,Escritorios,1518.42,3,0.0,274.98
+CR-2023-01184,2023-10-17,Estandar,Carlos Ramirez,Consumidor,Central,San Jose,Tecnologia,Laptops,618.39,1,0.05,171.61
+CR-2022-01185,2022-07-26,Economico,Pablo Solano,Consumidor,Caribe,Limon,Oficina,Impresion,73.59,1,0.0,29.24
+CR-2022-01186,2022-03-21,Express,Carlos Ramirez,Consumidor,Caribe,Limon,Muebles,Sillas,193.18,2,0.0,16.32
+CR-2022-01186,2022-03-21,Express,Carlos Ramirez,Consumidor,Caribe,Limon,Tecnologia,Tablets,734.58,3,0.0,218.72
+CR-2022-01186,2022-03-21,Economico,Carlos Ramirez,Consumidor,Caribe,Limon,Oficina,Impresion,98.61,1,0.0,47.29
+CR-2024-01187,2024-11-23,Estandar,Lucia Sanchez,Corporativo,Central,Alajuela,Oficina,Utiles,120.63,2,0.05,45.53
+CR-2023-01188,2023-02-16,Economico,Camila Brenes,Consumidor,Pacifico,Puntarenas,Muebles,Sillas,382.05,1,0.0,88.75
+CR-2023-01188,2023-02-16,Economico,Camila Brenes,Consumidor,Pacifico,Puntarenas,Tecnologia,Accesorios,1180.16,2,0.0,367.2
+CR-2023-01189,2023-12-07,Estandar,Daniela Zuniga,Consumidor,Caribe,Limon,Oficina,Organizadores,118.08,1,0.0,28.34
+CR-2024-01190,2024-04-18,Economico,Diego Hernandez,Gobierno,Central,Heredia,Tecnologia,Accesorios,636.6,2,0.15,167.95
+CR-2024-01191,2024-05-17,Economico,Sebastian Vega,Consumidor,Caribe,Limon,Oficina,Organizadores,124.53,1,0.0,44.16
+CR-2023-01192,2023-10-02,Estandar,Gabriela Quesada,Consumidor,Norte,San Carlos,Muebles,Mesas,529.45,2,0.1,46.97
+CR-2023-01192,2023-10-02,Economico,Gabriela Quesada,Consumidor,Norte,San Carlos,Tecnologia,Telefonos,2313.95,2,0.05,574.23
+CR-2022-01193,2022-02-22,Economico,Jose Garcia,Gobierno,Caribe,Limon,Tecnologia,Telefonos,2417.53,3,0.1,369.76
+CR-2024-01194,2024-12-30,Economico,Jose Garcia,Corporativo,Norte,Upala,Oficina,Utiles,31.26,1,0.0,7.92
+CR-2024-01194,2024-12-30,Express,Jose Garcia,Corporativo,Norte,Upala,Oficina,Impresion,270.88,2,0.0,64.83
+CR-2023-01195,2023-11-10,Economico,Maria Lopez,Gobierno,Caribe,Limon,Oficina,Papel,268.86,3,0.0,135.98
+CR-2024-01196,2024-02-21,Estandar,Daniela Zuniga,Gobierno,Norte,San Carlos,Tecnologia,Accesorios,1476.55,3,0.1,510.88
+CR-2023-01197,2023-01-05,Estandar,Diego Hernandez,Corporativo,Norte,Upala,Tecnologia,Tablets,51.15,1,0.1,5.14
+CR-2022-01198,2022-11-30,Economico,Ana Mora,Consumidor,Norte,Upala,Tecnologia,Telefonos,1400.77,2,0.15,444.89
+CR-2022-01199,2022-02-06,Express,Valentina Castro,Corporativo,Pacifico,Puntarenas,Tecnologia,Accesorios,1212.3,2,0.0,360.24
+CR-2024-01200,2024-07-22,Express,Isabella Monge,Gobierno,Caribe,Limon,Muebles,Sillas,318.4,1,0.15,73.61
+CR-2023-01201,2023-10-13,Economico,Jose Garcia,Corporativo,Pacifico,Puntarenas,Oficina,Papel,89.4,1,0.1,22.56
+CR-2022-01202,2022-04-09,Economico,Sofia Vargas,Corporativo,Central,San Jose,Tecnologia,Laptops,843.56,1,0.0,218.11
+CR-2023-01203,2023-09-09,Express,Sebastian Vega,Corporativo,Central,Alajuela,Tecnologia,Laptops,1873.3,3,0.05,440.81
+CR-2023-01203,2023-09-09,Estandar,Sebastian Vega,Corporativo,Central,Alajuela,Tecnologia,Accesorios,1389.1,2,0.1,415.97
+CR-2024-01204,2024-10-19,Express,Jose Garcia,Corporativo,Norte,San Carlos,Tecnologia,Telefonos,68.49,1,0.0,15.22
+CR-2022-01205,2022-07-04,Estandar,Diego Hernandez,Corporativo,Central,Alajuela,Muebles,Sillas,846.17,1,0.05,36.35
+CR-2022-01205,2022-07-04,Estandar,Diego Hernandez,Corporativo,Central,Alajuela,Muebles,Sillas,750.76,2,0.0,35.03
+CR-2022-01206,2022-10-11,Express,Camila Brenes,Consumidor,Pacifico,Guanacaste,Muebles,Escritorios,720.32,1,0.1,44.7
+CR-2022-01206,2022-10-11,Economico,Camila Brenes,Consumidor,Pacifico,Guanacaste,Muebles,Mesas,272.61,1,0.1,55.61
+CR-2022-01206,2022-10-11,Estandar,Camila Brenes,Consumidor,Pacifico,Guanacaste,Tecnologia,Tablets,411.64,2,0.15,124.85
+CR-2024-01207,2024-09-15,Express,Sebastian Vega,Corporativo,Norte,San Carlos,Tecnologia,Tablets,3511.97,3,0.1,1115.15
+CR-2022-01208,2022-08-20,Estandar,Pablo Solano,Consumidor,Norte,San Carlos,Oficina,Organizadores,235.64,2,0.1,103.57
+CR-2024-01209,2024-11-29,Economico,Jose Garcia,Corporativo,Central,Heredia,Oficina,Papel,92.75,1,0.1,34.63
+CR-2022-01210,2022-01-24,Economico,Ana Mora,Gobierno,Pacifico,Guanacaste,Muebles,Escritorios,342.92,1,0.0,46.84
+CR-2024-01211,2024-04-05,Estandar,Sofia Vargas,Consumidor,Central,Heredia,Muebles,Escritorios,424.27,1,0.05,72.24
+CR-2024-01212,2024-12-24,Estandar,Daniela Zuniga,Corporativo,Central,San Jose,Oficina,Utiles,164.43,2,0.05,47.08
+CR-2024-01212,2024-12-24,Express,Daniela Zuniga,Corporativo,Central,San Jose,Muebles,Escritorios,669.22,2,0.05,123.69
+CR-2022-01213,2022-12-22,Express,Ana Mora,Consumidor,Pacifico,Puntarenas,Muebles,Mesas,529.11,1,0.0,119.73
+CR-2022-01213,2022-12-22,Estandar,Ana Mora,Consumidor,Pacifico,Puntarenas,Oficina,Impresion,112.66,1,0.0,25.73
+CR-2022-01213,2022-12-22,Express,Ana Mora,Consumidor,Pacifico,Puntarenas,Tecnologia,Laptops,1282.9,2,0.1,105.62
+CR-2022-01214,2022-09-10,Economico,Andres Rojas,Corporativo,Norte,Upala,Muebles,Escritorios,158.76,2,0.05,18.98
+CR-2024-01215,2024-11-07,Economico,Camila Brenes,Corporativo,Pacifico,Puntarenas,Oficina,Utiles,262.43,3,0.05,79.74
+CR-2023-01216,2023-07-15,Express,Isabella Monge,Consumidor,Caribe,Limon,Oficina,Utiles,213.0,2,0.0,91.72
+CR-2023-01217,2023-12-16,Economico,Ricardo Chaves,Gobierno,Caribe,Limon,Oficina,Papel,139.08,1,0.05,56.29
+CR-2023-01217,2023-12-16,Economico,Ricardo Chaves,Gobierno,Caribe,Limon,Muebles,Estantes,919.82,2,0.15,168.63
+CR-2023-01217,2023-12-16,Economico,Ricardo Chaves,Gobierno,Caribe,Limon,Muebles,Sillas,1485.62,2,0.0,79.37
+CR-2023-01218,2023-10-14,Economico,Daniel Cordero,Consumidor,Caribe,Limon,Muebles,Mesas,494.56,2,0.0,61.37
+CR-2023-01218,2023-10-14,Economico,Daniel Cordero,Consumidor,Caribe,Limon,Oficina,Organizadores,93.89,1,0.05,44.01
+CR-2022-01219,2022-04-07,Express,Daniel Cordero,Gobierno,Norte,Upala,Oficina,Utiles,25.6,2,0.0,12.74
+CR-2024-01220,2024-01-24,Express,Diego Hernandez,Consumidor,Pacifico,Puntarenas,Tecnologia,Accesorios,305.06,1,0.05,49.77
+CR-2024-01220,2024-01-24,Express,Diego Hernandez,Consumidor,Pacifico,Puntarenas,Oficina,Utiles,38.98,1,0.1,5.94
+CR-2024-01220,2024-01-24,Economico,Diego Hernandez,Consumidor,Pacifico,Puntarenas,Tecnologia,Accesorios,272.87,1,0.0,89.97
+CR-2024-01221,2024-10-01,Express,Carlos Ramirez,Corporativo,Caribe,Limon,Tecnologia,Laptops,1609.76,2,0.0,342.76
+CR-2024-01221,2024-10-01,Estandar,Carlos Ramirez,Corporativo,Caribe,Limon,Muebles,Escritorios,261.38,1,0.0,26.92
+CR-2022-01222,2022-11-19,Estandar,Mateo Calderon,Gobierno,Norte,San Carlos,Tecnologia,Tablets,2880.8,2,0.0,935.63
+CR-2022-01222,2022-11-19,Express,Mateo Calderon,Gobierno,Norte,San Carlos,Muebles,Escritorios,444.54,1,0.15,92.95
+CR-2022-01222,2022-11-19,Estandar,Mateo Calderon,Gobierno,Norte,San Carlos,Muebles,Mesas,347.88,3,0.0,48.08
+CR-2024-01223,2024-12-28,Economico,Daniela Zuniga,Corporativo,Central,San Jose,Oficina,Impresion,63.18,1,0.05,27.24
+CR-2022-01224,2022-05-28,Estandar,Laura Jimenez,Consumidor,Pacifico,Puntarenas,Tecnologia,Accesorios,244.51,2,0.05,54.4
+CR-2024-01225,2024-04-14,Estandar,Sebastian Vega,Consumidor,Norte,Upala,Oficina,Papel,11.72,2,0.0,5.26
+CR-2024-01225,2024-04-14,Estandar,Sebastian Vega,Consumidor,Norte,Upala,Muebles,Estantes,756.9,1,0.1,67.6
+CR-2024-01226,2024-06-15,Express,Lucia Sanchez,Consumidor,Central,Heredia,Muebles,Estantes,1466.7,2,0.0,243.22
+CR-2022-01227,2022-01-23,Economico,Sofia Vargas,Consumidor,Pacifico,Puntarenas,Oficina,Organizadores,84.39,1,0.0,37.69
+CR-2022-01227,2022-01-23,Estandar,Sofia Vargas,Consumidor,Pacifico,Puntarenas,Tecnologia,Accesorios,1231.87,2,0.05,121.08
+CR-2023-01228,2023-12-02,Express,Maria Lopez,Consumidor,Central,Alajuela,Oficina,Organizadores,13.29,1,0.1,4.58
+CR-2022-01229,2022-09-20,Estandar,Mateo Calderon,Consumidor,Pacifico,Puntarenas,Muebles,Estantes,454.49,1,0.05,81.58
+CR-2022-01229,2022-09-20,Economico,Mateo Calderon,Consumidor,Pacifico,Puntarenas,Muebles,Escritorios,866.1,1,0.0,173.83
+CR-2022-01229,2022-09-20,Express,Mateo Calderon,Consumidor,Pacifico,Puntarenas,Muebles,Escritorios,692.0,1,0.1,153.56
+CR-2024-01230,2024-01-05,Economico,Daniel Cordero,Consumidor,Norte,San Carlos,Muebles,Sillas,744.94,1,0.05,60.0
+CR-2022-01231,2022-06-04,Estandar,Lucia Sanchez,Corporativo,Central,Alajuela,Tecnologia,Accesorios,1444.68,2,0.15,276.85
+CR-2022-01231,2022-06-04,Express,Lucia Sanchez,Corporativo,Central,Alajuela,Muebles,Sillas,473.6,2,0.1,41.17
+CR-2024-01232,2024-03-23,Estandar,Mateo Calderon,Consumidor,Central,Alajuela,Oficina,Impresion,24.08,1,0.05,9.06
+CR-2024-01232,2024-03-23,Estandar,Mateo Calderon,Consumidor,Central,Alajuela,Muebles,Sillas,226.28,2,0.0,18.28
+CR-2023-01233,2023-02-28,Express,Lucia Sanchez,Consumidor,Caribe,Limon,Tecnologia,Accesorios,1324.67,1,0.1,273.43
+CR-2023-01233,2023-02-28,Economico,Lucia Sanchez,Consumidor,Caribe,Limon,Oficina,Papel,79.73,1,0.05,23.61
+CR-2023-01233,2023-02-28,Express,Lucia Sanchez,Consumidor,Caribe,Limon,Oficina,Impresion,124.44,3,0.0,38.87
+CR-2024-01234,2024-09-14,Economico,Camila Brenes,Gobierno,Central,Alajuela,Tecnologia,Laptops,796.08,1,0.0,77.38
+CR-2023-01235,2023-04-17,Economico,Ana Mora,Consumidor,Caribe,Limon,Oficina,Utiles,56.76,2,0.0,9.49
+CR-2022-01236,2022-10-03,Economico,Ana Mora,Consumidor,Central,Alajuela,Tecnologia,Accesorios,679.26,1,0.15,163.9
+CR-2022-01237,2022-12-25,Economico,Diego Hernandez,Consumidor,Norte,Upala,Oficina,Organizadores,117.77,1,0.05,30.13
+CR-2022-01237,2022-12-25,Estandar,Diego Hernandez,Consumidor,Norte,Upala,Muebles,Mesas,569.16,1,0.0,28.69
+CR-2024-01238,2024-12-06,Estandar,Diego Hernandez,Corporativo,Norte,San Carlos,Oficina,Impresion,262.11,3,0.05,118.2
+CR-2022-01239,2022-09-24,Express,Ricardo Chaves,Corporativo,Central,Alajuela,Tecnologia,Accesorios,902.34,1,0.15,175.63
+CR-2022-01240,2022-07-20,Economico,Carlos Ramirez,Corporativo,Caribe,Limon,Oficina,Papel,57.83,1,0.1,26.94
+CR-2024-01241,2024-11-30,Economico,Pablo Solano,Consumidor,Pacifico,Guanacaste,Oficina,Organizadores,85.39,1,0.05,32.1
+CR-2024-01242,2024-03-24,Estandar,Jose Garcia,Consumidor,Norte,Upala,Muebles,Sillas,1603.04,2,0.1,178.85
+CR-2024-01242,2024-03-24,Economico,Jose Garcia,Consumidor,Norte,Upala,Oficina,Impresion,65.14,2,0.15,12.38
+CR-2023-01243,2023-11-25,Express,Ana Mora,Consumidor,Central,San Jose,Tecnologia,Telefonos,1181.53,1,0.05,90.32
+CR-2024-01244,2024-10-30,Estandar,Ricardo Chaves,Corporativo,Norte,Upala,Oficina,Utiles,26.66,2,0.0,9.27
+CR-2024-01245,2024-11-27,Estandar,Daniela Zuniga,Corporativo,Central,Alajuela,Tecnologia,Accesorios,975.97,1,0.05,334.46
+CR-2024-01246,2024-03-29,Economico,Camila Brenes,Corporativo,Norte,Upala,Oficina,Organizadores,14.95,1,0.0,7.2
+CR-2023-01247,2023-12-13,Estandar,Andres Rojas,Corporativo,Caribe,Limon,Muebles,Estantes,551.42,1,0.0,24.53
+CR-2023-01248,2023-11-28,Economico,Lucia Sanchez,Corporativo,Caribe,Limon,Tecnologia,Laptops,3272.77,3,0.05,615.99
+CR-2023-01248,2023-11-28,Economico,Lucia Sanchez,Corporativo,Caribe,Limon,Muebles,Mesas,166.57,1,0.05,41.42
+CR-2023-01249,2023-10-09,Estandar,Pablo Solano,Corporativo,Caribe,Limon,Tecnologia,Tablets,1256.9,2,0.0,271.95
+CR-2023-01250,2023-10-05,Estandar,Isabella Monge,Gobierno,Caribe,Limon,Tecnologia,Telefonos,696.19,1,0.1,217.09
+CR-2023-01250,2023-10-05,Estandar,Isabella Monge,Gobierno,Caribe,Limon,Tecnologia,Laptops,2521.32,2,0.0,715.25
+CR-2023-01250,2023-10-05,Estandar,Isabella Monge,Gobierno,Caribe,Limon,Oficina,Impresion,143.59,1,0.0,70.77
+CR-2024-01251,2024-01-31,Express,Daniel Cordero,Consumidor,Norte,Upala,Muebles,Escritorios,812.52,2,0.0,114.5
+CR-2024-01251,2024-01-31,Express,Daniel Cordero,Consumidor,Norte,Upala,Oficina,Papel,8.75,1,0.1,4.03
+CR-2024-01251,2024-01-31,Express,Daniel Cordero,Consumidor,Norte,Upala,Oficina,Papel,80.14,1,0.0,33.63
+CR-2023-01252,2023-10-29,Express,Maria Lopez,Corporativo,Caribe,Limon,Oficina,Organizadores,54.75,1,0.0,17.39
+CR-2024-01253,2024-10-31,Economico,Laura Jimenez,Corporativo,Pacifico,Puntarenas,Tecnologia,Telefonos,2565.72,3,0.0,744.09
+CR-2024-01254,2024-08-26,Estandar,Carlos Ramirez,Consumidor,Pacifico,Guanacaste,Oficina,Impresion,50.78,1,0.0,25.05
+CR-2024-01254,2024-08-26,Economico,Carlos Ramirez,Consumidor,Pacifico,Guanacaste,Tecnologia,Laptops,946.16,1,0.1,182.57
+CR-2024-01255,2024-07-10,Economico,Ana Mora,Consumidor,Caribe,Limon,Muebles,Mesas,362.2,1,0.0,63.86
+CR-2024-01255,2024-07-10,Express,Ana Mora,Consumidor,Caribe,Limon,Oficina,Organizadores,177.0,2,0.0,81.8
+CR-2024-01255,2024-07-10,Economico,Ana Mora,Consumidor,Caribe,Limon,Oficina,Organizadores,158.02,2,0.0,28.66
+CR-2024-01256,2024-08-07,Estandar,Sofia Vargas,Corporativo,Pacifico,Puntarenas,Oficina,Organizadores,175.78,2,0.0,37.76
+CR-2023-01257,2023-10-11,Estandar,Ricardo Chaves,Consumidor,Caribe,Limon,Muebles,Mesas,1317.21,2,0.05,77.03
+CR-2023-01257,2023-10-11,Estandar,Ricardo Chaves,Consumidor,Caribe,Limon,Oficina,Utiles,35.12,1,0.1,15.8
+CR-2024-01258,2024-10-24,Express,Carlos Ramirez,Consumidor,Norte,San Carlos,Tecnologia,Accesorios,401.4,2,0.0,132.25
+CR-2024-01258,2024-10-24,Estandar,Carlos Ramirez,Consumidor,Norte,San Carlos,Tecnologia,Laptops,388.28,1,0.05,34.71
+CR-2022-01259,2022-03-13,Economico,Daniela Zuniga,Consumidor,Caribe,Limon,Oficina,Impresion,198.07,3,0.05,43.74
+CR-2022-01259,2022-03-13,Economico,Daniela Zuniga,Consumidor,Caribe,Limon,Oficina,Organizadores,340.77,3,0.0,138.32
+CR-2022-01259,2022-03-13,Express,Daniela Zuniga,Consumidor,Caribe,Limon,Muebles,Estantes,474.95,1,0.0,43.13
+CR-2022-01260,2022-11-15,Express,Isabella Monge,Corporativo,Central,Alajuela,Muebles,Sillas,985.68,2,0.05,190.98
+CR-2024-01261,2024-05-31,Express,Valentina Castro,Corporativo,Pacifico,Puntarenas,Oficina,Utiles,61.54,1,0.1,25.13
+CR-2023-01262,2023-12-23,Economico,Gabriela Quesada,Consumidor,Pacifico,Guanacaste,Muebles,Escritorios,1255.74,3,0.0,108.76
+CR-2023-01262,2023-12-23,Estandar,Gabriela Quesada,Consumidor,Pacifico,Guanacaste,Oficina,Papel,134.24,2,0.05,37.35
+CR-2024-01263,2024-12-31,Express,Jose Garcia,Consumidor,Central,Heredia,Tecnologia,Tablets,368.2,1,0.05,56.18
+CR-2024-01264,2024-01-31,Express,Camila Brenes,Consumidor,Central,Heredia,Tecnologia,Tablets,414.61,1,0.05,43.32
+CR-2024-01264,2024-01-31,Express,Camila Brenes,Consumidor,Central,Heredia,Tecnologia,Telefonos,453.68,2,0.0,127.65
+CR-2024-01264,2024-01-31,Economico,Camila Brenes,Consumidor,Central,Heredia,Oficina,Utiles,134.29,1,0.1,25.19
+CR-2024-01265,2024-08-26,Estandar,Sofia Vargas,Consumidor,Caribe,Limon,Oficina,Utiles,76.5,1,0.05,17.56
+CR-2022-01266,2022-11-20,Express,Gabriela Quesada,Consumidor,Caribe,Limon,Muebles,Mesas,727.1,1,0.0,145.56
+CR-2022-01266,2022-11-20,Express,Gabriela Quesada,Consumidor,Caribe,Limon,Muebles,Sillas,676.45,1,0.05,120.25
+CR-2022-01267,2022-05-03,Estandar,Sebastian Vega,Consumidor,Pacifico,Puntarenas,Oficina,Papel,214.81,2,0.1,69.92
+CR-2024-01268,2024-02-13,Express,Laura Jimenez,Gobierno,Pacifico,Guanacaste,Oficina,Organizadores,95.46,2,0.0,21.45
+CR-2024-01268,2024-02-13,Estandar,Laura Jimenez,Gobierno,Pacifico,Guanacaste,Oficina,Papel,207.82,3,0.05,102.71
+CR-2024-01269,2024-12-23,Express,Lucia Sanchez,Corporativo,Caribe,Limon,Oficina,Utiles,141.05,2,0.1,56.12
+CR-2023-01270,2023-10-19,Economico,Pablo Solano,Corporativo,Norte,San Carlos,Tecnologia,Laptops,891.96,1,0.05,74.16
+CR-2023-01270,2023-10-19,Express,Pablo Solano,Corporativo,Norte,San Carlos,Tecnologia,Telefonos,1134.93,1,0.1,125.55
+CR-2022-01271,2022-12-22,Estandar,Sebastian Vega,Corporativo,Norte,Upala,Tecnologia,Tablets,1162.42,2,0.0,382.51
+CR-2022-01271,2022-12-22,Express,Sebastian Vega,Corporativo,Norte,Upala,Tecnologia,Accesorios,1457.38,2,0.0,397.93
+CR-2022-01272,2022-04-30,Estandar,Mateo Calderon,Corporativo,Caribe,Limon,Tecnologia,Telefonos,1298.57,1,0.1,272.05
+CR-2024-01273,2024-12-13,Estandar,Lucia Sanchez,Corporativo,Pacifico,Guanacaste,Muebles,Escritorios,1266.16,2,0.0,55.64
+CR-2024-01273,2024-12-13,Express,Lucia Sanchez,Corporativo,Pacifico,Guanacaste,Oficina,Organizadores,45.85,1,0.15,15.0
+CR-2023-01274,2023-10-27,Express,Ana Mora,Corporativo,Norte,Upala,Oficina,Impresion,79.91,1,0.05,35.79
+CR-2023-01274,2023-10-27,Estandar,Ana Mora,Corporativo,Norte,Upala,Muebles,Mesas,867.06,1,0.0,74.07
+CR-2023-01275,2023-10-11,Express,Lucia Sanchez,Consumidor,Pacifico,Guanacaste,Oficina,Organizadores,150.35,2,0.05,28.22
+CR-2023-01275,2023-10-11,Express,Lucia Sanchez,Consumidor,Pacifico,Guanacaste,Tecnologia,Laptops,238.16,1,0.05,28.55
+CR-2024-01276,2024-03-29,Estandar,Jose Garcia,Corporativo,Pacifico,Puntarenas,Oficina,Impresion,213.82,2,0.0,87.0
+CR-2022-01277,2022-06-10,Estandar,Fernando Arias,Gobierno,Caribe,Limon,Tecnologia,Tablets,1245.63,1,0.05,287.35
+CR-2022-01278,2022-04-21,Express,Daniela Zuniga,Corporativo,Central,Heredia,Oficina,Papel,33.32,1,0.1,10.23
+CR-2023-01279,2023-03-31,Economico,Carlos Ramirez,Consumidor,Norte,San Carlos,Oficina,Utiles,12.15,1,0.0,4.26
+CR-2022-01280,2022-10-04,Express,Sofia Vargas,Consumidor,Pacifico,Guanacaste,Oficina,Organizadores,299.16,2,0.0,76.74
+CR-2022-01281,2022-11-03,Express,Ana Mora,Consumidor,Norte,Upala,Oficina,Utiles,7.23,1,0.15,2.87
+CR-2024-01282,2024-10-21,Express,Sofia Vargas,Consumidor,Pacifico,Guanacaste,Tecnologia,Laptops,1066.27,1,0.05,100.55
+CR-2024-01282,2024-10-21,Estandar,Sofia Vargas,Consumidor,Pacifico,Guanacaste,Muebles,Mesas,616.46,1,0.05,15.55
+CR-2024-01282,2024-10-21,Estandar,Sofia Vargas,Consumidor,Pacifico,Guanacaste,Tecnologia,Laptops,1600.41,2,0.05,379.16
+CR-2024-01283,2024-02-11,Express,Camila Brenes,Consumidor,Central,Heredia,Oficina,Organizadores,89.87,1,0.05,13.78
+CR-2024-01284,2024-01-08,Economico,Sofia Vargas,Gobierno,Central,Heredia,Muebles,Sillas,844.9,2,0.15,111.08
+CR-2023-01285,2023-11-17,Economico,Daniel Cordero,Consumidor,Central,San Jose,Muebles,Estantes,402.59,1,0.0,40.64
+CR-2023-01286,2023-04-29,Express,Sebastian Vega,Corporativo,Caribe,Limon,Tecnologia,Telefonos,4257.0,3,0.0,649.35
+CR-2023-01286,2023-04-29,Economico,Sebastian Vega,Corporativo,Caribe,Limon,Tecnologia,Telefonos,2105.85,2,0.05,656.63
+CR-2023-01286,2023-04-29,Express,Sebastian Vega,Corporativo,Caribe,Limon,Muebles,Escritorios,235.54,1,0.15,53.99
+CR-2022-01287,2022-10-27,Economico,Maria Lopez,Consumidor,Pacifico,Puntarenas,Tecnologia,Telefonos,1818.69,3,0.1,448.98
+CR-2022-01287,2022-10-27,Estandar,Maria Lopez,Consumidor,Pacifico,Puntarenas,Muebles,Sillas,244.1,2,0.1,15.22
+CR-2022-01287,2022-10-27,Economico,Maria Lopez,Consumidor,Pacifico,Puntarenas,Muebles,Estantes,801.71,1,0.0,97.72
+CR-2022-01288,2022-11-08,Economico,Daniel Cordero,Consumidor,Central,San Jose,Oficina,Papel,87.4,2,0.0,21.23
+CR-2022-01288,2022-11-08,Express,Daniel Cordero,Consumidor,Central,San Jose,Muebles,Estantes,290.34,2,0.0,62.31
+CR-2022-01288,2022-11-08,Estandar,Daniel Cordero,Consumidor,Central,San Jose,Tecnologia,Tablets,1285.59,1,0.0,138.82
+CR-2022-01289,2022-01-31,Economico,Fernando Arias,Corporativo,Norte,San Carlos,Tecnologia,Accesorios,920.28,3,0.0,216.37
+CR-2022-01289,2022-01-31,Express,Fernando Arias,Corporativo,Norte,San Carlos,Muebles,Estantes,727.04,1,0.1,116.2
+CR-2024-01290,2024-03-18,Estandar,Lucia Sanchez,Consumidor,Central,Alajuela,Tecnologia,Tablets,1256.64,1,0.05,433.73
+CR-2024-01290,2024-03-18,Express,Lucia Sanchez,Consumidor,Central,Alajuela,Oficina,Organizadores,347.85,3,0.0,113.34
+CR-2024-01291,2024-11-02,Economico,Lucia Sanchez,Corporativo,Central,Alajuela,Oficina,Utiles,141.0,2,0.0,65.07
+CR-2024-01292,2024-03-16,Economico,Fernando Arias,Consumidor,Norte,San Carlos,Tecnologia,Telefonos,1329.7,1,0.0,325.21
+CR-2024-01292,2024-03-16,Estandar,Fernando Arias,Consumidor,Norte,San Carlos,Oficina,Impresion,100.19,1,0.1,40.44
+CR-2024-01292,2024-03-16,Express,Fernando Arias,Consumidor,Norte,San Carlos,Oficina,Papel,203.49,2,0.15,61.35
+CR-2022-01293,2022-12-16,Economico,Diego Hernandez,Gobierno,Pacifico,Puntarenas,Tecnologia,Telefonos,592.55,1,0.1,108.96
+CR-2022-01293,2022-12-16,Estandar,Diego Hernandez,Gobierno,Pacifico,Puntarenas,Tecnologia,Tablets,4058.67,3,0.0,1134.88
+CR-2024-01294,2024-10-16,Estandar,Maria Lopez,Gobierno,Central,Alajuela,Oficina,Organizadores,73.98,1,0.0,28.86
+CR-2023-01295,2023-10-02,Estandar,Mateo Calderon,Consumidor,Central,Alajuela,Oficina,Impresion,177.64,2,0.0,32.88
+CR-2023-01295,2023-10-02,Economico,Mateo Calderon,Consumidor,Central,Alajuela,Tecnologia,Telefonos,269.74,1,0.05,70.12
+CR-2023-01295,2023-10-02,Express,Mateo Calderon,Consumidor,Central,Alajuela,Muebles,Estantes,694.45,1,0.0,136.64
+CR-2024-01296,2024-02-16,Estandar,Isabella Monge,Consumidor,Norte,San Carlos,Muebles,Sillas,349.95,1,0.0,23.83
+CR-2024-01297,2024-12-19,Economico,Carlos Ramirez,Consumidor,Norte,Upala,Oficina,Impresion,149.28,1,0.0,55.99
+CR-2024-01298,2024-10-05,Express,Maria Lopez,Gobierno,Pacifico,Guanacaste,Muebles,Escritorios,533.59,1,0.1,108.8
+CR-2022-01299,2022-04-04,Economico,Lucia Sanchez,Corporativo,Pacifico,Puntarenas,Tecnologia,Accesorios,992.54,2,0.0,51.45
+CR-2023-01300,2023-12-01,Economico,Sofia Vargas,Consumidor,Central,San Jose,Muebles,Escritorios,1579.38,2,0.05,206.49
+CR-2023-01300,2023-12-01,Estandar,Sofia Vargas,Consumidor,Central,San Jose,Oficina,Organizadores,121.42,1,0.1,63.27
+CR-2023-01300,2023-12-01,Economico,Sofia Vargas,Consumidor,Central,San Jose,Oficina,Organizadores,104.61,1,0.05,24.41
+CR-2023-01301,2023-12-26,Estandar,Sofia Vargas,Corporativo,Pacifico,Guanacaste,Oficina,Organizadores,78.35,1,0.05,17.62
+CR-2023-01301,2023-12-26,Estandar,Sofia Vargas,Corporativo,Pacifico,Guanacaste,Oficina,Organizadores,258.76,2,0.0,47.8
+CR-2023-01301,2023-12-26,Express,Sofia Vargas,Corporativo,Pacifico,Guanacaste,Muebles,Sillas,722.15,1,0.05,43.51
+CR-2023-01302,2023-02-18,Estandar,Valentina Castro,Corporativo,Norte,San Carlos,Muebles,Sillas,1591.02,2,0.05,315.61
+CR-2024-01303,2024-11-23,Estandar,Mateo Calderon,Corporativo,Pacifico,Puntarenas,Oficina,Organizadores,21.8,1,0.0,10.67
+CR-2024-01304,2024-08-14,Express,Gabriela Quesada,Corporativo,Central,Alajuela,Oficina,Organizadores,229.96,2,0.0,52.94
+CR-2024-01305,2024-12-26,Economico,Maria Lopez,Consumidor,Norte,San Carlos,Tecnologia,Accesorios,2879.06,2,0.0,612.54
+CR-2023-01306,2023-12-10,Estandar,Sebastian Vega,Consumidor,Caribe,Limon,Muebles,Sillas,523.27,1,0.0,119.18
+CR-2023-01306,2023-12-10,Economico,Sebastian Vega,Consumidor,Caribe,Limon,Muebles,Escritorios,124.12,1,0.0,19.5
+CR-2023-01307,2023-12-30,Express,Ricardo Chaves,Gobierno,Pacifico,Puntarenas,Oficina,Organizadores,40.99,2,0.15,13.83
+CR-2023-01307,2023-12-30,Estandar,Ricardo Chaves,Gobierno,Pacifico,Puntarenas,Oficina,Organizadores,187.04,2,0.05,98.94
+CR-2024-01308,2024-01-15,Economico,Pablo Solano,Consumidor,Caribe,Limon,Tecnologia,Telefonos,559.59,1,0.0,156.9
+CR-2024-01309,2024-11-06,Estandar,Daniela Zuniga,Corporativo,Central,Heredia,Oficina,Impresion,143.68,2,0.0,35.56
+CR-2024-01309,2024-11-06,Express,Daniela Zuniga,Corporativo,Central,Heredia,Muebles,Estantes,127.46,1,0.05,15.19
+CR-2023-01310,2023-12-29,Estandar,Sofia Vargas,Gobierno,Central,Alajuela,Tecnologia,Accesorios,863.21,1,0.05,256.03
+CR-2023-01310,2023-12-29,Express,Sofia Vargas,Gobierno,Central,Alajuela,Muebles,Estantes,123.37,1,0.1,24.35
+CR-2024-01311,2024-10-09,Express,Daniel Cordero,Consumidor,Central,San Jose,Oficina,Impresion,232.62,2,0.05,77.04
+CR-2024-01311,2024-10-09,Economico,Daniel Cordero,Consumidor,Central,San Jose,Oficina,Organizadores,84.36,1,0.05,23.34
+CR-2024-01311,2024-10-09,Economico,Daniel Cordero,Consumidor,Central,San Jose,Muebles,Escritorios,1704.9,3,0.15,262.6
+CR-2022-01312,2022-09-19,Estandar,Ricardo Chaves,Gobierno,Central,Heredia,Oficina,Impresion,111.61,1,0.1,55.39
+CR-2024-01313,2024-03-18,Express,Sebastian Vega,Consumidor,Norte,Upala,Tecnologia,Telefonos,738.56,1,0.0,241.76
+CR-2023-01314,2023-08-14,Estandar,Diego Hernandez,Consumidor,Pacifico,Puntarenas,Oficina,Impresion,226.63,2,0.15,46.3
+CR-2024-01315,2024-07-22,Express,Valentina Castro,Consumidor,Norte,San Carlos,Muebles,Mesas,395.47,1,0.0,8.59
+CR-2024-01315,2024-07-22,Estandar,Valentina Castro,Consumidor,Norte,San Carlos,Oficina,Impresion,73.86,1,0.05,21.92
+CR-2024-01316,2024-11-25,Express,Isabella Monge,Corporativo,Central,San Jose,Muebles,Sillas,415.12,1,0.1,16.75
+CR-2024-01316,2024-11-25,Express,Isabella Monge,Corporativo,Central,San Jose,Oficina,Papel,193.76,2,0.0,33.15
+CR-2024-01316,2024-11-25,Express,Isabella Monge,Corporativo,Central,San Jose,Muebles,Estantes,1289.08,3,0.05,124.07
+CR-2023-01317,2023-12-16,Express,Carlos Ramirez,Consumidor,Caribe,Limon,Oficina,Impresion,33.7,3,0.1,13.47
+CR-2023-01317,2023-12-16,Economico,Carlos Ramirez,Consumidor,Caribe,Limon,Tecnologia,Accesorios,210.5,1,0.1,26.44
+CR-2023-01318,2023-07-18,Economico,Laura Jimenez,Consumidor,Central,Alajuela,Oficina,Utiles,24.22,1,0.1,6.16
+CR-2023-01318,2023-07-18,Estandar,Laura Jimenez,Consumidor,Central,Alajuela,Muebles,Mesas,456.52,2,0.0,112.46
+CR-2023-01318,2023-07-18,Economico,Laura Jimenez,Consumidor,Central,Alajuela,Muebles,Mesas,697.26,1,0.0,119.9
+CR-2023-01319,2023-03-08,Economico,Ricardo Chaves,Corporativo,Caribe,Limon,Tecnologia,Telefonos,293.02,1,0.0,80.24
+CR-2023-01319,2023-03-08,Express,Ricardo Chaves,Corporativo,Caribe,Limon,Muebles,Sillas,640.48,1,0.0,90.95
+CR-2023-01320,2023-08-15,Economico,Daniel Cordero,Corporativo,Norte,Upala,Tecnologia,Accesorios,382.36,2,0.0,115.96
+CR-2023-01320,2023-08-15,Express,Daniel Cordero,Corporativo,Norte,Upala,Muebles,Mesas,603.34,2,0.0,93.13
+CR-2023-01321,2023-02-04,Estandar,Camila Brenes,Corporativo,Pacifico,Guanacaste,Tecnologia,Accesorios,67.34,1,0.0,12.38
+CR-2023-01322,2023-10-31,Economico,Valentina Castro,Gobierno,Central,San Jose,Tecnologia,Telefonos,2570.78,2,0.1,221.07
+CR-2023-01322,2023-10-31,Estandar,Valentina Castro,Gobierno,Central,San Jose,Muebles,Mesas,1761.98,3,0.05,427.19
+CR-2023-01322,2023-10-31,Express,Valentina Castro,Gobierno,Central,San Jose,Muebles,Escritorios,643.1,2,0.0,79.93
+CR-2023-01323,2023-10-25,Estandar,Mateo Calderon,Corporativo,Central,Heredia,Tecnologia,Tablets,848.9,2,0.0,60.12
+CR-2023-01324,2023-01-01,Estandar,Gabriela Quesada,Corporativo,Central,San Jose,Oficina,Organizadores,20.41,1,0.0,3.35
+CR-2024-01325,2024-11-02,Express,Gabriela Quesada,Gobierno,Pacifico,Puntarenas,Tecnologia,Tablets,3035.48,3,0.05,621.1
+CR-2024-01326,2024-06-12,Express,Daniela Zuniga,Consumidor,Central,Alajuela,Muebles,Escritorios,304.96,2,0.15,29.49
+CR-2024-01326,2024-06-12,Express,Daniela Zuniga,Consumidor,Central,Alajuela,Tecnologia,Laptops,2900.4,3,0.0,610.21
+CR-2024-01326,2024-06-12,Express,Daniela Zuniga,Consumidor,Central,Alajuela,Muebles,Mesas,703.57,1,0.0,103.8
+CR-2023-01327,2023-09-05,Economico,Laura Jimenez,Corporativo,Central,Alajuela,Oficina,Utiles,68.51,1,0.0,10.97
+CR-2024-01328,2024-09-28,Estandar,Daniel Cordero,Corporativo,Caribe,Limon,Tecnologia,Telefonos,93.34,1,0.1,5.87
+CR-2024-01328,2024-09-28,Estandar,Daniel Cordero,Corporativo,Caribe,Limon,Oficina,Utiles,96.67,1,0.05,48.31
+CR-2024-01328,2024-09-28,Economico,Daniel Cordero,Corporativo,Caribe,Limon,Tecnologia,Laptops,98.3,1,0.05,18.81
+CR-2023-01329,2023-05-13,Estandar,Camila Brenes,Consumidor,Pacifico,Puntarenas,Tecnologia,Laptops,675.9,1,0.05,199.62
+CR-2023-01329,2023-05-13,Express,Camila Brenes,Consumidor,Pacifico,Puntarenas,Muebles,Escritorios,1135.76,2,0.0,75.65
+CR-2023-01329,2023-05-13,Estandar,Camila Brenes,Consumidor,Pacifico,Puntarenas,Muebles,Sillas,340.21,2,0.05,31.97
+CR-2022-01330,2022-12-22,Estandar,Sofia Vargas,Consumidor,Central,Heredia,Muebles,Escritorios,453.72,1,0.15,13.32
+CR-2022-01331,2022-11-20,Express,Diego Hernandez,Consumidor,Norte,San Carlos,Oficina,Utiles,298.5,3,0.0,141.18
+CR-2022-01331,2022-11-20,Estandar,Diego Hernandez,Consumidor,Norte,San Carlos,Tecnologia,Laptops,244.61,1,0.05,29.79
+CR-2022-01331,2022-11-20,Express,Diego Hernandez,Consumidor,Norte,San Carlos,Oficina,Organizadores,26.44,1,0.15,10.6
+CR-2024-01332,2024-10-07,Estandar,Laura Jimenez,Gobierno,Pacifico,Puntarenas,Oficina,Utiles,74.66,1,0.05,17.41
+CR-2024-01332,2024-10-07,Estandar,Laura Jimenez,Gobierno,Pacifico,Puntarenas,Tecnologia,Telefonos,2048.65,2,0.15,394.0
+CR-2022-01333,2022-11-30,Estandar,Diego Hernandez,Consumidor,Caribe,Limon,Muebles,Escritorios,196.38,2,0.15,11.87
+CR-2022-01333,2022-11-30,Express,Diego Hernandez,Consumidor,Caribe,Limon,Oficina,Impresion,58.94,3,0.1,22.81
+CR-2023-01334,2023-02-12,Express,Jose Garcia,Corporativo,Caribe,Limon,Tecnologia,Tablets,3359.19,3,0.0,390.33
+CR-2022-01335,2022-04-22,Estandar,Lucia Sanchez,Gobierno,Pacifico,Puntarenas,Muebles,Estantes,364.51,2,0.05,89.08
+CR-2022-01336,2022-12-18,Economico,Sebastian Vega,Consumidor,Central,Heredia,Tecnologia,Telefonos,1152.49,1,0.0,111.83
+CR-2023-01337,2023-12-16,Estandar,Daniela Zuniga,Corporativo,Norte,San Carlos,Oficina,Utiles,201.24,3,0.0,65.14
+CR-2022-01338,2022-01-11,Estandar,Pablo Solano,Gobierno,Central,San Jose,Tecnologia,Tablets,600.53,1,0.1,155.53
+CR-2022-01338,2022-01-11,Estandar,Pablo Solano,Gobierno,Central,San Jose,Muebles,Mesas,554.44,2,0.0,104.41
+CR-2024-01339,2024-12-05,Estandar,Daniela Zuniga,Consumidor,Central,San Jose,Muebles,Escritorios,1567.0,2,0.0,195.27
+CR-2023-01340,2023-01-14,Express,Maria Lopez,Corporativo,Caribe,Limon,Tecnologia,Telefonos,1155.33,2,0.05,160.56
+CR-2023-01340,2023-01-14,Economico,Maria Lopez,Corporativo,Caribe,Limon,Oficina,Organizadores,45.2,3,0.1,7.77
+CR-2023-01340,2023-01-14,Estandar,Maria Lopez,Corporativo,Caribe,Limon,Tecnologia,Laptops,200.35,1,0.05,31.99
+CR-2023-01341,2023-11-24,Express,Valentina Castro,Corporativo,Pacifico,Puntarenas,Oficina,Organizadores,236.36,2,0.1,107.39
+CR-2023-01341,2023-11-24,Express,Valentina Castro,Corporativo,Pacifico,Puntarenas,Muebles,Escritorios,492.92,1,0.0,52.12
+CR-2023-01341,2023-11-24,Economico,Valentina Castro,Corporativo,Pacifico,Puntarenas,Oficina,Organizadores,73.23,1,0.1,30.85
+CR-2024-01342,2024-07-14,Express,Mateo Calderon,Gobierno,Central,San Jose,Muebles,Sillas,693.87,1,0.15,31.33
+CR-2022-01343,2022-10-31,Estandar,Isabella Monge,Consumidor,Pacifico,Puntarenas,Tecnologia,Laptops,663.44,1,0.1,37.45
+CR-2022-01343,2022-10-31,Express,Isabella Monge,Consumidor,Pacifico,Puntarenas,Tecnologia,Accesorios,1116.98,1,0.15,271.87
+CR-2023-01344,2023-10-31,Estandar,Ricardo Chaves,Consumidor,Norte,Upala,Muebles,Mesas,209.78,1,0.05,51.03
+CR-2023-01344,2023-10-31,Economico,Ricardo Chaves,Consumidor,Norte,Upala,Muebles,Estantes,892.59,3,0.05,50.86
+CR-2023-01344,2023-10-31,Estandar,Ricardo Chaves,Consumidor,Norte,Upala,Tecnologia,Telefonos,2776.18,2,0.05,693.79
+CR-2023-01345,2023-11-03,Economico,Pablo Solano,Consumidor,Pacifico,Guanacaste,Oficina,Utiles,10.03,1,0.0,3.0
+CR-2024-01346,2024-12-28,Economico,Lucia Sanchez,Gobierno,Central,Heredia,Muebles,Estantes,714.69,1,0.15,104.07
+CR-2023-01347,2023-08-29,Economico,Sofia Vargas,Corporativo,Caribe,Limon,Muebles,Sillas,339.83,1,0.05,9.93
+CR-2023-01347,2023-08-29,Express,Sofia Vargas,Corporativo,Caribe,Limon,Muebles,Sillas,200.66,2,0.0,20.51
+CR-2023-01347,2023-08-29,Express,Sofia Vargas,Corporativo,Caribe,Limon,Oficina,Utiles,195.98,2,0.0,102.75
+CR-2022-01348,2022-11-16,Economico,Diego Hernandez,Consumidor,Central,Alajuela,Oficina,Impresion,75.22,1,0.05,23.24
+CR-2024-01349,2024-01-28,Express,Daniela Zuniga,Consumidor,Central,Heredia,Oficina,Organizadores,35.4,2,0.0,19.37
+CR-2024-01349,2024-01-28,Estandar,Daniela Zuniga,Consumidor,Central,Heredia,Tecnologia,Laptops,3654.69,3,0.0,1165.59
+CR-2024-01349,2024-01-28,Estandar,Daniela Zuniga,Consumidor,Central,Heredia,Tecnologia,Tablets,316.16,1,0.1,109.39
+CR-2022-01350,2022-12-01,Express,Daniela Zuniga,Consumidor,Caribe,Limon,Tecnologia,Accesorios,677.84,2,0.0,133.65
+CR-2022-01350,2022-12-01,Express,Daniela Zuniga,Consumidor,Caribe,Limon,Muebles,Estantes,538.61,1,0.0,11.08
+CR-2024-01351,2024-12-25,Economico,Lucia Sanchez,Consumidor,Caribe,Limon,Tecnologia,Accesorios,189.6,1,0.15,13.28
+CR-2024-01351,2024-12-25,Economico,Lucia Sanchez,Consumidor,Caribe,Limon,Oficina,Papel,74.67,1,0.0,31.69
+CR-2024-01352,2024-02-04,Express,Isabella Monge,Consumidor,Central,Heredia,Muebles,Estantes,800.22,1,0.0,66.19
+CR-2022-01353,2022-12-10,Economico,Maria Lopez,Consumidor,Central,Alajuela,Tecnologia,Accesorios,918.21,1,0.0,133.01
+CR-2023-01354,2023-07-10,Estandar,Gabriela Quesada,Corporativo,Caribe,Limon,Tecnologia,Laptops,223.72,1,0.1,38.84
+CR-2023-01354,2023-07-10,Economico,Gabriela Quesada,Corporativo,Caribe,Limon,Tecnologia,Laptops,274.1,1,0.0,87.47
+CR-2024-01355,2024-05-04,Economico,Laura Jimenez,Corporativo,Central,San Jose,Muebles,Estantes,646.66,1,0.0,159.82
+CR-2022-01356,2022-12-19,Estandar,Lucia Sanchez,Corporativo,Central,Alajuela,Oficina,Impresion,25.64,1,0.0,5.18
+CR-2022-01357,2022-11-17,Express,Valentina Castro,Consumidor,Norte,San Carlos,Oficina,Papel,77.36,1,0.15,12.94
+CR-2022-01357,2022-11-17,Estandar,Valentina Castro,Consumidor,Norte,San Carlos,Tecnologia,Accesorios,3553.32,3,0.0,1138.31
+CR-2022-01358,2022-12-01,Estandar,Valentina Castro,Consumidor,Caribe,Limon,Oficina,Utiles,80.12,2,0.0,30.55
+CR-2022-01358,2022-12-01,Economico,Valentina Castro,Consumidor,Caribe,Limon,Oficina,Papel,27.85,1,0.15,10.16
+CR-2023-01359,2023-03-15,Estandar,Pablo Solano,Corporativo,Norte,Upala,Tecnologia,Tablets,312.23,1,0.0,35.68
+CR-2022-01360,2022-08-20,Estandar,Ricardo Chaves,Consumidor,Caribe,Limon,Muebles,Escritorios,1315.76,2,0.0,125.61
+CR-2023-01361,2023-08-04,Economico,Laura Jimenez,Consumidor,Caribe,Limon,Muebles,Estantes,211.32,1,0.1,27.35
+CR-2023-01362,2023-12-03,Economico,Ricardo Chaves,Consumidor,Norte,San Carlos,Tecnologia,Telefonos,211.73,1,0.05,72.68
+CR-2023-01362,2023-12-03,Express,Ricardo Chaves,Consumidor,Norte,San Carlos,Tecnologia,Laptops,577.38,1,0.0,175.07
+CR-2023-01363,2023-04-22,Economico,Lucia Sanchez,Corporativo,Norte,Upala,Muebles,Escritorios,1190.29,2,0.15,121.29
+CR-2023-01363,2023-04-22,Express,Lucia Sanchez,Corporativo,Norte,Upala,Muebles,Escritorios,474.39,1,0.05,22.82
+CR-2023-01364,2023-04-18,Estandar,Ricardo Chaves,Consumidor,Pacifico,Puntarenas,Muebles,Estantes,1908.15,3,0.0,336.25
+CR-2023-01364,2023-04-18,Express,Ricardo Chaves,Consumidor,Pacifico,Puntarenas,Oficina,Impresion,181.2,2,0.05,64.87
+CR-2023-01365,2023-11-18,Express,Daniela Zuniga,Corporativo,Norte,Upala,Tecnologia,Tablets,4459.59,3,0.0,825.18
+CR-2023-01365,2023-11-18,Economico,Daniela Zuniga,Corporativo,Norte,Upala,Muebles,Mesas,104.02,1,0.05,20.73
+CR-2024-01366,2024-10-03,Estandar,Valentina Castro,Consumidor,Caribe,Limon,Muebles,Sillas,1180.39,2,0.05,152.81
+CR-2024-01366,2024-10-03,Express,Valentina Castro,Consumidor,Caribe,Limon,Muebles,Estantes,591.96,2,0.0,103.94
+CR-2022-01367,2022-10-06,Express,Andres Rojas,Consumidor,Pacifico,Guanacaste,Oficina,Papel,54.48,1,0.0,15.96
+CR-2022-01367,2022-10-06,Economico,Andres Rojas,Consumidor,Pacifico,Guanacaste,Oficina,Papel,40.41,1,0.0,7.43
+CR-2023-01368,2023-10-17,Economico,Mateo Calderon,Consumidor,Central,Alajuela,Muebles,Sillas,1637.4,3,0.0,294.85
+CR-2023-01368,2023-10-17,Estandar,Mateo Calderon,Consumidor,Central,Alajuela,Muebles,Mesas,370.25,1,0.05,76.24
+CR-2023-01369,2023-11-20,Economico,Ricardo Chaves,Corporativo,Caribe,Limon,Tecnologia,Telefonos,1387.04,2,0.1,419.04
+CR-2023-01369,2023-11-20,Economico,Ricardo Chaves,Corporativo,Caribe,Limon,Muebles,Sillas,282.56,1,0.05,57.94
+CR-2023-01369,2023-11-20,Economico,Ricardo Chaves,Corporativo,Caribe,Limon,Oficina,Impresion,127.41,1,0.0,22.54
+CR-2024-01370,2024-10-24,Estandar,Daniela Zuniga,Consumidor,Caribe,Limon,Muebles,Sillas,778.79,2,0.05,152.32
+CR-2024-01371,2024-11-23,Express,Gabriela Quesada,Corporativo,Norte,San Carlos,Muebles,Sillas,1612.09,2,0.05,317.42
+CR-2024-01371,2024-11-23,Express,Gabriela Quesada,Corporativo,Norte,San Carlos,Oficina,Impresion,34.09,1,0.0,15.29
+CR-2024-01371,2024-11-23,Express,Gabriela Quesada,Corporativo,Norte,San Carlos,Muebles,Estantes,682.6,2,0.0,45.61
+CR-2023-01372,2023-08-11,Express,Andres Rojas,Consumidor,Caribe,Limon,Tecnologia,Tablets,771.59,2,0.05,168.17
+CR-2022-01373,2022-11-17,Estandar,Fernando Arias,Consumidor,Pacifico,Puntarenas,Tecnologia,Laptops,885.81,1,0.1,252.16
+CR-2022-01373,2022-11-17,Express,Fernando Arias,Consumidor,Pacifico,Puntarenas,Muebles,Sillas,1461.94,3,0.15,166.09
+CR-2024-01374,2024-03-23,Express,Valentina Castro,Consumidor,Pacifico,Puntarenas,Tecnologia,Tablets,1371.63,2,0.15,451.91
+CR-2024-01374,2024-03-23,Economico,Valentina Castro,Consumidor,Pacifico,Puntarenas,Tecnologia,Tablets,355.69,1,0.1,52.92
+CR-2023-01375,2023-04-29,Economico,Isabella Monge,Consumidor,Pacifico,Puntarenas,Muebles,Sillas,1244.61,3,0.0,177.6
+CR-2023-01375,2023-04-29,Estandar,Isabella Monge,Consumidor,Pacifico,Puntarenas,Muebles,Estantes,527.51,1,0.0,44.25
+CR-2023-01375,2023-04-29,Economico,Isabella Monge,Consumidor,Pacifico,Puntarenas,Muebles,Sillas,1333.7,2,0.0,323.24
+CR-2022-01376,2022-04-22,Express,Sebastian Vega,Corporativo,Pacifico,Guanacaste,Oficina,Impresion,115.22,2,0.0,57.24
+CR-2022-01376,2022-04-22,Estandar,Sebastian Vega,Corporativo,Pacifico,Guanacaste,Tecnologia,Telefonos,1163.81,1,0.15,147.41
+CR-2023-01377,2023-10-02,Economico,Lucia Sanchez,Gobierno,Norte,Upala,Tecnologia,Tablets,402.62,1,0.1,79.52
+CR-2023-01377,2023-10-02,Economico,Lucia Sanchez,Gobierno,Norte,Upala,Muebles,Estantes,1804.3,3,0.1,378.2
+CR-2024-01378,2024-11-02,Express,Pablo Solano,Consumidor,Norte,Upala,Oficina,Utiles,176.45,2,0.1,36.07
+CR-2024-01378,2024-11-02,Economico,Pablo Solano,Consumidor,Norte,Upala,Oficina,Utiles,98.6,2,0.0,24.63
+CR-2024-01379,2024-04-20,Express,Valentina Castro,Consumidor,Caribe,Limon,Tecnologia,Accesorios,1884.29,2,0.1,206.52
+CR-2023-01380,2023-01-08,Express,Diego Hernandez,Consumidor,Norte,San Carlos,Oficina,Utiles,93.74,1,0.0,31.4
+CR-2023-01380,2023-01-08,Express,Diego Hernandez,Consumidor,Norte,San Carlos,Tecnologia,Telefonos,631.5,1,0.0,48.45
+CR-2023-01380,2023-01-08,Express,Diego Hernandez,Consumidor,Norte,San Carlos,Oficina,Impresion,44.04,2,0.0,22.81
+CR-2022-01381,2022-10-31,Economico,Sofia Vargas,Consumidor,Pacifico,Guanacaste,Muebles,Mesas,1329.74,2,0.15,113.14
+CR-2024-01382,2024-10-06,Estandar,Maria Lopez,Gobierno,Central,Heredia,Tecnologia,Accesorios,1113.34,2,0.05,59.11
+CR-2024-01382,2024-10-06,Economico,Maria Lopez,Gobierno,Central,Heredia,Oficina,Organizadores,62.65,1,0.0,20.01
+CR-2022-01383,2022-10-30,Estandar,Maria Lopez,Gobierno,Central,Heredia,Oficina,Papel,402.42,3,0.05,180.81
+CR-2022-01383,2022-10-30,Estandar,Maria Lopez,Gobierno,Central,Heredia,Muebles,Sillas,419.66,1,0.15,73.18
+CR-2022-01383,2022-10-30,Express,Maria Lopez,Gobierno,Central,Heredia,Oficina,Utiles,29.46,1,0.05,8.42
+CR-2022-01384,2022-07-03,Express,Maria Lopez,Consumidor,Norte,San Carlos,Tecnologia,Accesorios,2321.58,3,0.0,367.22
+CR-2023-01385,2023-06-24,Express,Ana Mora,Consumidor,Caribe,Limon,Muebles,Sillas,635.59,1,0.1,108.82
+CR-2023-01386,2023-10-22,Economico,Carlos Ramirez,Consumidor,Pacifico,Puntarenas,Muebles,Escritorios,499.15,3,0.05,60.67
+CR-2023-01386,2023-10-22,Estandar,Carlos Ramirez,Consumidor,Pacifico,Puntarenas,Muebles,Mesas,871.65,2,0.1,42.22
+CR-2023-01387,2023-10-05,Estandar,Carlos Ramirez,Corporativo,Caribe,Limon,Oficina,Organizadores,93.54,3,0.0,32.67
+CR-2023-01387,2023-10-05,Estandar,Carlos Ramirez,Corporativo,Caribe,Limon,Tecnologia,Accesorios,1386.63,3,0.0,224.73
+CR-2022-01388,2022-11-11,Economico,Valentina Castro,Consumidor,Norte,Upala,Tecnologia,Telefonos,501.29,1,0.05,93.21
+CR-2022-01388,2022-11-11,Economico,Valentina Castro,Consumidor,Norte,Upala,Tecnologia,Laptops,2603.5,2,0.0,753.57
+CR-2024-01389,2024-11-21,Economico,Ana Mora,Gobierno,Pacifico,Puntarenas,Tecnologia,Telefonos,572.52,2,0.0,157.88
+CR-2022-01390,2022-11-04,Economico,Laura Jimenez,Consumidor,Caribe,Limon,Oficina,Impresion,33.98,1,0.0,8.75
+CR-2022-01390,2022-11-04,Express,Laura Jimenez,Consumidor,Caribe,Limon,Tecnologia,Laptops,2179.13,2,0.05,392.75
+CR-2022-01391,2022-03-24,Estandar,Ana Mora,Corporativo,Norte,San Carlos,Muebles,Escritorios,1024.74,2,0.0,130.85
+CR-2023-01392,2023-10-08,Estandar,Daniel Cordero,Corporativo,Caribe,Limon,Oficina,Impresion,16.1,1,0.0,5.15
+CR-2023-01392,2023-10-08,Economico,Daniel Cordero,Corporativo,Caribe,Limon,Oficina,Papel,218.88,2,0.0,84.1
+CR-2022-01393,2022-08-22,Economico,Maria Lopez,Corporativo,Norte,San Carlos,Muebles,Escritorios,758.99,1,0.05,94.61
+CR-2023-01394,2023-06-27,Estandar,Fernando Arias,Consumidor,Pacifico,Puntarenas,Muebles,Sillas,754.98,1,0.05,16.11
+CR-2023-01394,2023-06-27,Economico,Fernando Arias,Consumidor,Pacifico,Puntarenas,Tecnologia,Tablets,1000.91,1,0.0,247.54
+CR-2023-01394,2023-06-27,Economico,Fernando Arias,Consumidor,Pacifico,Puntarenas,Muebles,Escritorios,1761.51,3,0.0,308.22
+CR-2023-01395,2023-10-12,Express,Laura Jimenez,Consumidor,Central,San Jose,Tecnologia,Telefonos,1230.79,1,0.05,301.45
+CR-2023-01395,2023-10-12,Estandar,Laura Jimenez,Consumidor,Central,San Jose,Tecnologia,Telefonos,462.01,1,0.05,26.12
+CR-2024-01396,2024-06-30,Economico,Andres Rojas,Gobierno,Norte,San Carlos,Muebles,Escritorios,1093.86,2,0.0,23.86
+CR-2024-01397,2024-05-01,Economico,Laura Jimenez,Consumidor,Caribe,Limon,Oficina,Papel,168.61,2,0.1,58.2
+CR-2024-01397,2024-05-01,Economico,Laura Jimenez,Consumidor,Caribe,Limon,Oficina,Impresion,14.74,2,0.05,3.79
+CR-2024-01398,2024-12-27,Economico,Diego Hernandez,Corporativo,Caribe,Limon,Oficina,Organizadores,32.87,1,0.0,7.82
+CR-2024-01399,2024-11-17,Express,Camila Brenes,Corporativo,Norte,Upala,Muebles,Sillas,1318.86,2,0.1,215.01
+CR-2024-01399,2024-11-17,Express,Camila Brenes,Corporativo,Norte,Upala,Oficina,Impresion,75.02,1,0.0,26.02
+CR-2023-01400,2023-12-14,Express,Sofia Vargas,Consumidor,Central,San Jose,Tecnologia,Tablets,864.52,3,0.05,252.48
+CR-2022-01401,2022-08-22,Economico,Sofia Vargas,Consumidor,Central,Alajuela,Muebles,Sillas,1350.69,2,0.05,305.46
+CR-2022-01401,2022-08-22,Estandar,Sofia Vargas,Consumidor,Central,Alajuela,Oficina,Papel,33.24,3,0.1,17.79
+CR-2022-01401,2022-08-22,Economico,Sofia Vargas,Consumidor,Central,Alajuela,Oficina,Papel,280.2,3,0.0,105.07
+CR-2022-01402,2022-12-09,Estandar,Isabella Monge,Consumidor,Pacifico,Guanacaste,Oficina,Papel,231.81,3,0.0,68.5
+CR-2022-01402,2022-12-09,Express,Isabella Monge,Consumidor,Pacifico,Guanacaste,Tecnologia,Accesorios,618.04,1,0.1,76.39
+CR-2023-01403,2023-08-11,Estandar,Ricardo Chaves,Consumidor,Central,Heredia,Oficina,Utiles,91.28,1,0.1,29.09
+CR-2024-01404,2024-05-28,Economico,Camila Brenes,Gobierno,Norte,Upala,Muebles,Sillas,768.48,1,0.1,142.21
+CR-2024-01404,2024-05-28,Express,Camila Brenes,Gobierno,Norte,Upala,Tecnologia,Laptops,486.49,1,0.1,87.68
+CR-2022-01405,2022-11-06,Economico,Andres Rojas,Gobierno,Central,Alajuela,Muebles,Estantes,1144.34,3,0.1,252.8
+CR-2022-01405,2022-11-06,Economico,Andres Rojas,Gobierno,Central,Alajuela,Muebles,Escritorios,82.16,1,0.05,19.04
+CR-2022-01405,2022-11-06,Express,Andres Rojas,Gobierno,Central,Alajuela,Muebles,Estantes,1732.74,3,0.05,281.02
+CR-2024-01406,2024-04-08,Estandar,Diego Hernandez,Consumidor,Caribe,Limon,Oficina,Organizadores,95.46,1,0.15,25.16
+CR-2024-01407,2024-12-03,Economico,Daniela Zuniga,Consumidor,Pacifico,Puntarenas,Tecnologia,Laptops,1256.73,1,0.0,253.33
+CR-2024-01407,2024-12-03,Estandar,Daniela Zuniga,Consumidor,Pacifico,Puntarenas,Muebles,Escritorios,586.0,2,0.0,113.69
+CR-2023-01408,2023-09-03,Economico,Maria Lopez,Consumidor,Central,Heredia,Oficina,Utiles,247.98,3,0.05,90.09
+CR-2023-01408,2023-09-03,Estandar,Maria Lopez,Consumidor,Central,Heredia,Muebles,Escritorios,585.63,2,0.1,88.86
+CR-2024-01409,2024-11-30,Estandar,Andres Rojas,Corporativo,Central,Heredia,Muebles,Sillas,452.53,1,0.0,51.94
+CR-2024-01409,2024-11-30,Economico,Andres Rojas,Corporativo,Central,Heredia,Muebles,Escritorios,808.58,1,0.0,84.85
+CR-2024-01410,2024-11-28,Express,Camila Brenes,Corporativo,Caribe,Limon,Muebles,Escritorios,680.01,1,0.0,92.71
+CR-2024-01410,2024-11-28,Express,Camila Brenes,Corporativo,Caribe,Limon,Tecnologia,Tablets,2761.93,2,0.05,713.52
+CR-2022-01411,2022-03-08,Express,Laura Jimenez,Corporativo,Caribe,Limon,Muebles,Estantes,548.85,1,0.0,57.87
+CR-2023-01412,2023-08-26,Estandar,Pablo Solano,Corporativo,Pacifico,Puntarenas,Muebles,Estantes,728.13,1,0.1,96.42
+CR-2022-01413,2022-05-19,Estandar,Laura Jimenez,Corporativo,Norte,Upala,Muebles,Escritorios,648.64,1,0.1,103.34
+CR-2024-01414,2024-07-10,Economico,Sebastian Vega,Consumidor,Pacifico,Guanacaste,Muebles,Escritorios,1192.59,3,0.0,36.42
+CR-2024-01414,2024-07-10,Economico,Sebastian Vega,Consumidor,Pacifico,Guanacaste,Oficina,Organizadores,45.22,1,0.0,7.23
+CR-2022-01415,2022-09-11,Estandar,Daniela Zuniga,Gobierno,Central,San Jose,Tecnologia,Laptops,2588.53,2,0.1,519.76
+CR-2022-01415,2022-09-11,Estandar,Daniela Zuniga,Gobierno,Central,San Jose,Oficina,Impresion,140.75,1,0.0,65.41
+CR-2022-01416,2022-06-23,Express,Diego Hernandez,Corporativo,Caribe,Limon,Tecnologia,Accesorios,542.94,1,0.0,113.13
+CR-2022-01416,2022-06-23,Express,Diego Hernandez,Corporativo,Caribe,Limon,Tecnologia,Laptops,216.23,1,0.0,20.15
+CR-2022-01416,2022-06-23,Express,Diego Hernandez,Corporativo,Caribe,Limon,Tecnologia,Telefonos,494.85,1,0.0,115.96
+CR-2022-01417,2022-02-25,Estandar,Lucia Sanchez,Consumidor,Caribe,Limon,Muebles,Mesas,787.08,3,0.1,25.13
+CR-2024-01418,2024-10-06,Estandar,Carlos Ramirez,Consumidor,Norte,San Carlos,Muebles,Estantes,127.0,1,0.05,29.23
+CR-2022-01419,2022-12-27,Estandar,Isabella Monge,Corporativo,Pacifico,Guanacaste,Oficina,Utiles,155.12,2,0.0,56.8
+CR-2024-01420,2024-05-17,Express,Daniela Zuniga,Consumidor,Norte,San Carlos,Oficina,Organizadores,140.82,3,0.0,73.71
+CR-2024-01420,2024-05-17,Estandar,Daniela Zuniga,Consumidor,Norte,San Carlos,Oficina,Organizadores,70.35,2,0.15,34.26
+CR-2024-01420,2024-05-17,Economico,Daniela Zuniga,Consumidor,Norte,San Carlos,Tecnologia,Laptops,568.1,2,0.0,43.7
+CR-2022-01421,2022-10-14,Economico,Andres Rojas,Consumidor,Caribe,Limon,Muebles,Escritorios,2293.74,3,0.05,562.69
+CR-2022-01421,2022-10-14,Economico,Andres Rojas,Consumidor,Caribe,Limon,Muebles,Estantes,844.98,3,0.0,106.26
+CR-2022-01421,2022-10-14,Estandar,Andres Rojas,Consumidor,Caribe,Limon,Tecnologia,Laptops,1169.03,1,0.15,271.96
+CR-2022-01422,2022-12-22,Express,Sofia Vargas,Corporativo,Norte,Upala,Oficina,Impresion,18.03,2,0.05,7.55
+CR-2022-01422,2022-12-22,Estandar,Sofia Vargas,Corporativo,Norte,Upala,Oficina,Papel,51.22,1,0.1,21.96
+CR-2024-01423,2024-08-05,Economico,Gabriela Quesada,Consumidor,Pacifico,Guanacaste,Muebles,Estantes,1276.1,2,0.0,265.1
+CR-2023-01424,2023-11-29,Express,Maria Lopez,Consumidor,Caribe,Limon,Tecnologia,Tablets,172.0,3,0.05,14.32
+CR-2023-01424,2023-11-29,Economico,Maria Lopez,Consumidor,Caribe,Limon,Tecnologia,Telefonos,1615.17,2,0.05,411.41
+CR-2022-01425,2022-05-14,Economico,Diego Hernandez,Consumidor,Central,San Jose,Oficina,Organizadores,99.62,1,0.1,15.86
+CR-2022-01425,2022-05-14,Economico,Diego Hernandez,Consumidor,Central,San Jose,Oficina,Papel,73.29,1,0.15,29.78
+CR-2022-01425,2022-05-14,Express,Diego Hernandez,Consumidor,Central,San Jose,Muebles,Escritorios,1304.07,3,0.0,230.09
+CR-2024-01426,2024-01-11,Economico,Fernando Arias,Consumidor,Central,Alajuela,Oficina,Papel,70.08,1,0.0,12.81
+CR-2024-01426,2024-01-11,Estandar,Fernando Arias,Consumidor,Central,Alajuela,Oficina,Utiles,64.12,2,0.15,33.14
+CR-2024-01426,2024-01-11,Estandar,Fernando Arias,Consumidor,Central,Alajuela,Muebles,Estantes,669.72,2,0.0,87.33
+CR-2023-01427,2023-11-28,Economico,Diego Hernandez,Corporativo,Pacifico,Guanacaste,Tecnologia,Tablets,2694.47,2,0.05,752.38
+CR-2023-01427,2023-11-28,Economico,Diego Hernandez,Corporativo,Pacifico,Guanacaste,Oficina,Papel,58.91,3,0.15,17.73
+CR-2022-01428,2022-11-19,Economico,Gabriela Quesada,Corporativo,Central,Heredia,Oficina,Impresion,11.78,1,0.1,3.66
+CR-2023-01429,2023-04-23,Economico,Andres Rojas,Consumidor,Central,Heredia,Oficina,Organizadores,37.41,2,0.05,6.0
+CR-2023-01429,2023-04-23,Estandar,Andres Rojas,Consumidor,Central,Heredia,Oficina,Utiles,31.26,1,0.05,5.53
+CR-2023-01429,2023-04-23,Estandar,Andres Rojas,Consumidor,Central,Heredia,Oficina,Utiles,74.85,1,0.05,29.82
+CR-2022-01430,2022-10-09,Estandar,Fernando Arias,Consumidor,Central,San Jose,Oficina,Impresion,102.94,1,0.1,47.37
+CR-2022-01430,2022-10-09,Economico,Fernando Arias,Consumidor,Central,San Jose,Muebles,Mesas,488.52,1,0.15,67.94
+CR-2022-01431,2022-12-28,Express,Fernando Arias,Consumidor,Central,Heredia,Tecnologia,Accesorios,1129.2,1,0.05,291.82
+CR-2022-01431,2022-12-28,Estandar,Fernando Arias,Consumidor,Central,Heredia,Oficina,Impresion,87.08,1,0.0,24.51
+CR-2022-01432,2022-03-28,Economico,Daniela Zuniga,Consumidor,Central,Alajuela,Tecnologia,Tablets,674.19,2,0.15,100.76
+CR-2023-01433,2023-02-25,Express,Fernando Arias,Consumidor,Central,Heredia,Tecnologia,Laptops,243.66,1,0.05,78.9
+CR-2022-01434,2022-11-02,Estandar,Laura Jimenez,Gobierno,Pacifico,Puntarenas,Oficina,Papel,40.66,1,0.0,10.36
+CR-2022-01435,2022-10-09,Economico,Daniela Zuniga,Gobierno,Central,Heredia,Muebles,Escritorios,1264.43,2,0.15,309.45
+CR-2022-01436,2022-10-14,Economico,Mateo Calderon,Corporativo,Pacifico,Puntarenas,Oficina,Utiles,114.38,2,0.15,52.07
+CR-2023-01437,2023-08-26,Express,Fernando Arias,Consumidor,Caribe,Limon,Oficina,Papel,436.26,3,0.0,79.64
+CR-2023-01437,2023-08-26,Express,Fernando Arias,Consumidor,Caribe,Limon,Tecnologia,Tablets,1496.23,2,0.05,303.36
+CR-2023-01437,2023-08-26,Express,Fernando Arias,Consumidor,Caribe,Limon,Tecnologia,Tablets,490.81,1,0.05,129.91
+CR-2023-01438,2023-07-04,Express,Fernando Arias,Consumidor,Central,San Jose,Tecnologia,Accesorios,561.64,1,0.1,124.35
+CR-2022-01439,2022-10-23,Express,Daniela Zuniga,Corporativo,Caribe,Limon,Muebles,Escritorios,475.05,1,0.05,56.76
+CR-2022-01439,2022-10-23,Estandar,Daniela Zuniga,Corporativo,Caribe,Limon,Muebles,Estantes,303.88,1,0.0,24.64
+CR-2022-01440,2022-12-18,Express,Diego Hernandez,Gobierno,Central,Heredia,Muebles,Estantes,111.39,1,0.0,10.66
+CR-2023-01441,2023-01-26,Economico,Lucia Sanchez,Consumidor,Pacifico,Guanacaste,Muebles,Sillas,722.17,1,0.0,110.77
+CR-2024-01442,2024-08-24,Express,Diego Hernandez,Consumidor,Pacifico,Guanacaste,Muebles,Estantes,516.13,2,0.05,65.97
+CR-2024-01442,2024-08-24,Estandar,Diego Hernandez,Consumidor,Pacifico,Guanacaste,Tecnologia,Tablets,453.56,1,0.1,117.65
+CR-2024-01443,2024-07-10,Express,Camila Brenes,Consumidor,Central,Heredia,Oficina,Impresion,11.52,2,0.1,3.29
+CR-2024-01444,2024-04-06,Economico,Diego Hernandez,Corporativo,Caribe,Limon,Tecnologia,Tablets,818.55,3,0.0,195.59
+CR-2024-01444,2024-04-06,Estandar,Diego Hernandez,Corporativo,Caribe,Limon,Muebles,Estantes,235.08,1,0.05,14.88
+CR-2024-01445,2024-07-13,Express,Camila Brenes,Consumidor,Caribe,Limon,Tecnologia,Accesorios,2496.78,2,0.0,273.9
+CR-2024-01445,2024-07-13,Economico,Camila Brenes,Consumidor,Caribe,Limon,Tecnologia,Laptops,775.82,2,0.0,52.16
+CR-2022-01446,2022-12-18,Estandar,Valentina Castro,Consumidor,Norte,Upala,Muebles,Mesas,401.34,1,0.15,87.94
+CR-2023-01447,2023-09-27,Express,Sebastian Vega,Corporativo,Norte,San Carlos,Oficina,Papel,108.93,1,0.0,59.52
+CR-2023-01447,2023-09-27,Express,Sebastian Vega,Corporativo,Norte,San Carlos,Muebles,Escritorios,575.98,1,0.0,86.93
+CR-2024-01448,2024-08-05,Express,Lucia Sanchez,Corporativo,Central,Heredia,Oficina,Utiles,107.9,1,0.1,52.86
+CR-2023-01449,2023-01-03,Estandar,Valentina Castro,Consumidor,Norte,Upala,Oficina,Organizadores,37.7,2,0.0,19.01
+CR-2023-01450,2023-08-21,Estandar,Daniel Cordero,Corporativo,Central,Alajuela,Muebles,Estantes,1519.39,2,0.15,57.13
+CR-2023-01450,2023-08-21,Estandar,Daniel Cordero,Corporativo,Central,Alajuela,Muebles,Escritorios,427.28,1,0.05,53.96
+CR-2023-01450,2023-08-21,Express,Daniel Cordero,Corporativo,Central,Alajuela,Muebles,Sillas,361.8,1,0.0,10.38
+CR-2022-01451,2022-10-07,Estandar,Carlos Ramirez,Consumidor,Norte,Upala,Tecnologia,Telefonos,1030.46,1,0.05,137.82
+CR-2022-01451,2022-10-07,Estandar,Carlos Ramirez,Consumidor,Norte,Upala,Tecnologia,Laptops,930.13,1,0.0,253.4
+CR-2022-01452,2022-01-23,Economico,Daniel Cordero,Consumidor,Pacifico,Guanacaste,Oficina,Papel,82.18,1,0.0,33.19
+CR-2022-01452,2022-01-23,Express,Daniel Cordero,Consumidor,Pacifico,Guanacaste,Muebles,Mesas,613.78,1,0.05,19.15
+CR-2023-01453,2023-05-27,Estandar,Pablo Solano,Consumidor,Pacifico,Puntarenas,Tecnologia,Telefonos,511.88,1,0.05,59.47
+CR-2022-01454,2022-12-09,Estandar,Maria Lopez,Consumidor,Central,Heredia,Tecnologia,Accesorios,1404.77,1,0.0,168.18
+CR-2023-01455,2023-10-25,Estandar,Isabella Monge,Consumidor,Norte,Upala,Tecnologia,Tablets,953.84,1,0.05,60.27
+CR-2023-01456,2023-09-10,Economico,Diego Hernandez,Corporativo,Norte,San Carlos,Tecnologia,Telefonos,2621.46,3,0.05,664.2
+CR-2023-01457,2023-11-12,Economico,Laura Jimenez,Consumidor,Caribe,Limon,Oficina,Papel,126.16,2,0.1,44.33
+CR-2023-01457,2023-11-12,Express,Laura Jimenez,Consumidor,Caribe,Limon,Tecnologia,Telefonos,161.52,2,0.0,19.53
+CR-2022-01458,2022-11-12,Express,Lucia Sanchez,Consumidor,Norte,Upala,Tecnologia,Telefonos,671.82,2,0.15,123.02
+CR-2023-01459,2023-07-24,Estandar,Sofia Vargas,Corporativo,Central,Alajuela,Muebles,Sillas,625.91,1,0.1,61.86
+CR-2023-01459,2023-07-24,Express,Sofia Vargas,Corporativo,Central,Alajuela,Oficina,Organizadores,281.79,2,0.05,67.34
+CR-2023-01460,2023-01-11,Economico,Mateo Calderon,Gobierno,Central,San Jose,Tecnologia,Telefonos,969.83,1,0.0,75.19
+CR-2023-01460,2023-01-11,Estandar,Mateo Calderon,Gobierno,Central,San Jose,Tecnologia,Telefonos,746.48,1,0.05,74.09
+CR-2023-01460,2023-01-11,Economico,Mateo Calderon,Gobierno,Central,San Jose,Muebles,Mesas,224.68,1,0.0,27.66
+CR-2023-01461,2023-07-11,Estandar,Camila Brenes,Gobierno,Norte,San Carlos,Tecnologia,Tablets,695.9,1,0.05,125.28
+CR-2022-01462,2022-02-10,Express,Lucia Sanchez,Corporativo,Norte,San Carlos,Tecnologia,Tablets,851.64,1,0.0,120.72
+CR-2022-01462,2022-02-10,Estandar,Lucia Sanchez,Corporativo,Norte,San Carlos,Oficina,Utiles,92.87,1,0.0,31.36
+CR-2022-01463,2022-12-09,Express,Sofia Vargas,Consumidor,Caribe,Limon,Oficina,Papel,56.15,1,0.05,21.64
+CR-2022-01463,2022-12-09,Express,Sofia Vargas,Consumidor,Caribe,Limon,Tecnologia,Accesorios,1216.0,2,0.0,219.96
+CR-2022-01463,2022-12-09,Express,Sofia Vargas,Consumidor,Caribe,Limon,Oficina,Impresion,215.64,2,0.0,37.32
+CR-2023-01464,2023-10-21,Economico,Diego Hernandez,Corporativo,Caribe,Limon,Oficina,Utiles,142.08,2,0.0,55.53
+CR-2022-01465,2022-10-26,Economico,Maria Lopez,Corporativo,Norte,Upala,Tecnologia,Tablets,1320.21,1,0.0,340.02
+CR-2022-01465,2022-10-26,Estandar,Maria Lopez,Corporativo,Norte,Upala,Oficina,Papel,44.69,1,0.1,19.71
+CR-2023-01466,2023-12-07,Economico,Carlos Ramirez,Gobierno,Caribe,Limon,Tecnologia,Tablets,2962.38,2,0.0,210.19
+CR-2023-01466,2023-12-07,Estandar,Carlos Ramirez,Gobierno,Caribe,Limon,Oficina,Utiles,65.44,1,0.0,14.43
+CR-2023-01467,2023-02-10,Express,Isabella Monge,Corporativo,Central,Heredia,Tecnologia,Tablets,2274.76,2,0.0,784.53
+CR-2022-01468,2022-08-12,Estandar,Lucia Sanchez,Consumidor,Pacifico,Puntarenas,Tecnologia,Laptops,1037.63,2,0.05,261.32
+CR-2022-01469,2022-10-06,Express,Carlos Ramirez,Consumidor,Central,San Jose,Oficina,Impresion,251.77,2,0.15,85.42
+CR-2023-01470,2023-11-21,Estandar,Camila Brenes,Corporativo,Caribe,Limon,Muebles,Escritorios,1568.32,3,0.1,322.2
+CR-2023-01470,2023-11-21,Estandar,Camila Brenes,Corporativo,Caribe,Limon,Oficina,Organizadores,107.54,2,0.15,17.24
+CR-2023-01471,2023-05-25,Express,Maria Lopez,Corporativo,Norte,Upala,Muebles,Escritorios,93.64,1,0.0,19.27
+CR-2023-01471,2023-05-25,Express,Maria Lopez,Corporativo,Norte,Upala,Tecnologia,Tablets,883.32,1,0.05,65.73
+CR-2023-01471,2023-05-25,Estandar,Maria Lopez,Corporativo,Norte,Upala,Oficina,Utiles,349.06,3,0.1,93.39
+CR-2024-01472,2024-12-01,Estandar,Ana Mora,Consumidor,Central,San Jose,Oficina,Impresion,425.96,3,0.05,216.63
+CR-2023-01473,2023-10-09,Express,Jose Garcia,Consumidor,Central,San Jose,Muebles,Sillas,1640.34,2,0.0,130.0
+CR-2022-01474,2022-10-06,Economico,Diego Hernandez,Corporativo,Norte,San Carlos,Oficina,Impresion,220.63,2,0.05,66.37
+CR-2022-01474,2022-10-06,Estandar,Diego Hernandez,Corporativo,Norte,San Carlos,Oficina,Organizadores,176.58,2,0.1,83.59
+CR-2022-01474,2022-10-06,Estandar,Diego Hernandez,Corporativo,Norte,San Carlos,Tecnologia,Laptops,471.92,1,0.0,107.44
+CR-2024-01475,2024-11-24,Estandar,Fernando Arias,Consumidor,Norte,San Carlos,Muebles,Mesas,883.48,1,0.0,155.7
+CR-2024-01475,2024-11-24,Express,Fernando Arias,Consumidor,Norte,San Carlos,Tecnologia,Telefonos,1184.08,2,0.05,110.61
+CR-2024-01476,2024-10-20,Express,Gabriela Quesada,Consumidor,Pacifico,Guanacaste,Oficina,Impresion,9.48,1,0.05,4.03
+CR-2024-01476,2024-10-20,Express,Gabriela Quesada,Consumidor,Pacifico,Guanacaste,Oficina,Utiles,112.64,1,0.1,33.87
+CR-2023-01477,2023-03-08,Estandar,Daniela Zuniga,Gobierno,Pacifico,Puntarenas,Muebles,Sillas,608.81,1,0.1,139.93
+CR-2024-01478,2024-03-14,Express,Maria Lopez,Corporativo,Norte,Upala,Oficina,Papel,92.08,2,0.0,45.35
+CR-2022-01479,2022-09-26,Economico,Pablo Solano,Consumidor,Central,Alajuela,Tecnologia,Telefonos,621.66,1,0.1,70.2
+CR-2022-01480,2022-01-19,Express,Mateo Calderon,Corporativo,Central,Alajuela,Muebles,Mesas,637.15,1,0.0,64.85
+CR-2022-01481,2022-12-18,Estandar,Maria Lopez,Gobierno,Caribe,Limon,Tecnologia,Tablets,94.33,1,0.05,24.19
+CR-2022-01481,2022-12-18,Economico,Maria Lopez,Gobierno,Caribe,Limon,Oficina,Impresion,297.44,2,0.0,99.78
+CR-2023-01482,2023-07-18,Economico,Andres Rojas,Consumidor,Norte,Upala,Muebles,Escritorios,1817.88,3,0.0,281.73
+CR-2023-01483,2023-07-15,Economico,Jose Garcia,Consumidor,Central,Alajuela,Oficina,Utiles,135.76,2,0.0,23.81
+CR-2023-01483,2023-07-15,Economico,Jose Garcia,Consumidor,Central,Alajuela,Muebles,Escritorios,709.22,1,0.05,101.69
+CR-2023-01483,2023-07-15,Estandar,Jose Garcia,Consumidor,Central,Alajuela,Tecnologia,Telefonos,1444.34,2,0.1,414.55
+CR-2022-01484,2022-12-29,Estandar,Maria Lopez,Corporativo,Pacifico,Puntarenas,Tecnologia,Laptops,1767.74,2,0.0,224.55
+CR-2022-01485,2022-09-13,Economico,Valentina Castro,Consumidor,Caribe,Limon,Muebles,Escritorios,300.54,3,0.15,26.29
+CR-2022-01486,2022-10-14,Estandar,Gabriela Quesada,Corporativo,Caribe,Limon,Tecnologia,Telefonos,1010.79,1,0.0,93.5
+CR-2023-01487,2023-03-19,Express,Valentina Castro,Corporativo,Caribe,Limon,Muebles,Escritorios,587.5,2,0.0,73.38
+CR-2022-01488,2022-10-21,Estandar,Ana Mora,Corporativo,Central,Alajuela,Tecnologia,Tablets,2063.3,2,0.05,419.73
+CR-2022-01488,2022-10-21,Estandar,Ana Mora,Corporativo,Central,Alajuela,Tecnologia,Laptops,1017.44,2,0.0,345.12
+CR-2023-01489,2023-10-08,Estandar,Ana Mora,Consumidor,Norte,San Carlos,Muebles,Escritorios,646.22,1,0.1,53.6
+CR-2023-01490,2023-04-01,Express,Sofia Vargas,Consumidor,Central,San Jose,Oficina,Organizadores,117.89,1,0.05,50.71
+CR-2023-01490,2023-04-01,Estandar,Sofia Vargas,Consumidor,Central,San Jose,Oficina,Organizadores,19.36,1,0.0,8.73
+CR-2023-01490,2023-04-01,Express,Sofia Vargas,Consumidor,Central,San Jose,Oficina,Impresion,196.23,2,0.05,98.67
+CR-2022-01491,2022-12-19,Economico,Diego Hernandez,Consumidor,Pacifico,Puntarenas,Tecnologia,Tablets,2763.48,2,0.0,782.78
+CR-2022-01491,2022-12-19,Express,Diego Hernandez,Consumidor,Pacifico,Puntarenas,Oficina,Organizadores,71.38,1,0.0,24.09
+CR-2024-01492,2024-05-26,Estandar,Ana Mora,Corporativo,Pacifico,Guanacaste,Muebles,Sillas,1352.55,2,0.05,50.91
+CR-2024-01492,2024-05-26,Estandar,Ana Mora,Corporativo,Pacifico,Guanacaste,Tecnologia,Tablets,884.21,1,0.0,290.8
+CR-2024-01492,2024-05-26,Economico,Ana Mora,Corporativo,Pacifico,Guanacaste,Oficina,Papel,149.64,2,0.05,53.27
+CR-2024-01493,2024-10-10,Economico,Lucia Sanchez,Consumidor,Central,Alajuela,Tecnologia,Laptops,2535.75,2,0.15,886.88
+CR-2024-01493,2024-10-10,Estandar,Lucia Sanchez,Consumidor,Central,Alajuela,Oficina,Utiles,59.54,1,0.15,27.12
+CR-2022-01494,2022-06-03,Economico,Valentina Castro,Gobierno,Pacifico,Guanacaste,Tecnologia,Laptops,502.57,1,0.15,62.79
+CR-2023-01495,2023-11-18,Estandar,Carlos Ramirez,Consumidor,Caribe,Limon,Tecnologia,Tablets,3540.5,3,0.15,724.59
+CR-2023-01495,2023-11-18,Express,Carlos Ramirez,Consumidor,Caribe,Limon,Oficina,Organizadores,128.01,1,0.0,42.77
+CR-2022-01496,2022-12-08,Express,Diego Hernandez,Consumidor,Pacifico,Guanacaste,Tecnologia,Laptops,345.76,2,0.0,30.13
+CR-2022-01497,2022-11-15,Economico,Daniel Cordero,Consumidor,Caribe,Limon,Muebles,Escritorios,1623.2,2,0.0,401.83
+CR-2022-01498,2022-11-28,Estandar,Carlos Ramirez,Consumidor,Norte,San Carlos,Tecnologia,Telefonos,463.1,1,0.0,69.17
+CR-2023-01499,2023-02-12,Economico,Maria Lopez,Consumidor,Caribe,Limon,Oficina,Impresion,97.72,1,0.1,49.12
+CR-2022-01500,2022-10-27,Economico,Valentina Castro,Consumidor,Central,San Jose,Oficina,Papel,78.58,2,0.0,42.48
+CR-2024-01501,2024-06-08,Express,Andres Rojas,Consumidor,Caribe,Limon,Tecnologia,Telefonos,1107.41,1,0.0,93.58
+CR-2024-01502,2024-12-28,Express,Lucia Sanchez,Corporativo,Central,Alajuela,Oficina,Utiles,96.19,1,0.0,29.87
+CR-2022-01503,2022-10-27,Estandar,Mateo Calderon,Gobierno,Pacifico,Puntarenas,Muebles,Escritorios,1962.39,3,0.0,231.56
+CR-2022-01504,2022-04-16,Economico,Andres Rojas,Consumidor,Caribe,Limon,Tecnologia,Accesorios,513.77,1,0.0,33.72
+CR-2022-01504,2022-04-16,Express,Andres Rojas,Consumidor,Caribe,Limon,Tecnologia,Tablets,440.52,1,0.05,78.97
+CR-2024-01505,2024-01-15,Economico,Isabella Monge,Corporativo,Central,San Jose,Tecnologia,Accesorios,1060.52,2,0.0,300.81
+CR-2024-01505,2024-01-15,Estandar,Isabella Monge,Corporativo,Central,San Jose,Tecnologia,Laptops,992.86,1,0.0,313.9
+CR-2022-01506,2022-03-26,Economico,Diego Hernandez,Corporativo,Pacifico,Puntarenas,Oficina,Utiles,90.02,1,0.05,40.9
+CR-2022-01507,2022-11-30,Economico,Isabella Monge,Gobierno,Caribe,Limon,Tecnologia,Laptops,1370.73,1,0.0,451.52
+CR-2022-01507,2022-11-30,Economico,Isabella Monge,Gobierno,Caribe,Limon,Tecnologia,Laptops,1837.54,2,0.0,116.93
+CR-2023-01508,2023-01-25,Economico,Fernando Arias,Corporativo,Norte,Upala,Tecnologia,Accesorios,1300.99,2,0.05,217.36
+CR-2023-01508,2023-01-25,Economico,Fernando Arias,Corporativo,Norte,Upala,Tecnologia,Tablets,316.9,1,0.0,82.08
+CR-2023-01508,2023-01-25,Economico,Fernando Arias,Corporativo,Norte,Upala,Oficina,Organizadores,215.24,2,0.0,51.26
+CR-2022-01509,2022-10-01,Estandar,Mateo Calderon,Consumidor,Pacifico,Guanacaste,Muebles,Mesas,756.31,1,0.1,126.87
+CR-2022-01509,2022-10-01,Express,Mateo Calderon,Consumidor,Pacifico,Guanacaste,Oficina,Papel,41.52,2,0.05,22.37
+CR-2022-01509,2022-10-01,Express,Mateo Calderon,Consumidor,Pacifico,Guanacaste,Oficina,Organizadores,133.18,1,0.0,67.83
+CR-2022-01510,2022-04-28,Estandar,Fernando Arias,Consumidor,Central,Heredia,Tecnologia,Tablets,2238.87,3,0.1,636.18
+CR-2023-01511,2023-06-12,Economico,Valentina Castro,Consumidor,Pacifico,Guanacaste,Oficina,Impresion,244.24,2,0.0,59.27
+CR-2024-01512,2024-11-25,Estandar,Pablo Solano,Consumidor,Central,Heredia,Tecnologia,Accesorios,291.47,1,0.1,71.2
+CR-2024-01512,2024-11-25,Estandar,Pablo Solano,Consumidor,Central,Heredia,Tecnologia,Laptops,2533.88,2,0.05,269.49
+CR-2024-01513,2024-12-23,Economico,Daniel Cordero,Corporativo,Norte,San Carlos,Tecnologia,Laptops,924.78,1,0.0,275.56
+CR-2024-01513,2024-12-23,Estandar,Daniel Cordero,Corporativo,Norte,San Carlos,Tecnologia,Laptops,410.1,1,0.0,97.69
+CR-2022-01514,2022-08-06,Economico,Ana Mora,Consumidor,Caribe,Limon,Muebles,Estantes,711.25,1,0.05,54.11
+CR-2022-01514,2022-08-06,Estandar,Ana Mora,Consumidor,Caribe,Limon,Oficina,Impresion,83.82,1,0.0,30.83
+CR-2022-01515,2022-10-18,Economico,Daniela Zuniga,Consumidor,Pacifico,Puntarenas,Oficina,Papel,132.78,3,0.05,56.39
+CR-2024-01516,2024-10-04,Estandar,Camila Brenes,Consumidor,Central,San Jose,Oficina,Utiles,45.38,1,0.15,8.35
+CR-2022-01517,2022-12-31,Express,Daniela Zuniga,Corporativo,Caribe,Limon,Oficina,Organizadores,97.46,2,0.0,18.67
+CR-2022-01517,2022-12-31,Estandar,Daniela Zuniga,Corporativo,Caribe,Limon,Muebles,Mesas,1489.58,2,0.0,30.54
+CR-2022-01517,2022-12-31,Estandar,Daniela Zuniga,Corporativo,Caribe,Limon,Muebles,Sillas,181.06,1,0.1,44.28
+CR-2024-01518,2024-05-25,Economico,Camila Brenes,Consumidor,Caribe,Limon,Muebles,Estantes,350.68,1,0.05,85.48
+CR-2022-01519,2022-10-11,Express,Pablo Solano,Consumidor,Pacifico,Guanacaste,Muebles,Mesas,1033.26,2,0.0,158.73
+CR-2022-01519,2022-10-11,Express,Pablo Solano,Consumidor,Pacifico,Guanacaste,Oficina,Impresion,17.65,1,0.0,8.65
+CR-2022-01520,2022-10-01,Express,Sebastian Vega,Consumidor,Central,Heredia,Muebles,Mesas,869.29,2,0.05,203.6
+CR-2022-01520,2022-10-01,Economico,Sebastian Vega,Consumidor,Central,Heredia,Tecnologia,Telefonos,1250.34,1,0.0,423.38
+CR-2024-01521,2024-02-13,Estandar,Pablo Solano,Consumidor,Norte,Upala,Tecnologia,Laptops,1482.8,2,0.0,139.48
+CR-2024-01521,2024-02-13,Estandar,Pablo Solano,Consumidor,Norte,Upala,Tecnologia,Tablets,291.13,2,0.1,27.63
+CR-2022-01522,2022-10-14,Estandar,Sofia Vargas,Consumidor,Caribe,Limon,Oficina,Utiles,105.81,1,0.0,53.17
+CR-2024-01523,2024-10-27,Estandar,Lucia Sanchez,Corporativo,Norte,Upala,Muebles,Estantes,1500.66,2,0.1,176.24
+CR-2024-01523,2024-10-27,Economico,Lucia Sanchez,Corporativo,Norte,Upala,Tecnologia,Laptops,2418.54,3,0.0,274.65
+CR-2023-01524,2023-03-25,Estandar,Maria Lopez,Consumidor,Central,Alajuela,Muebles,Estantes,682.51,1,0.1,115.16
+CR-2023-01524,2023-03-25,Estandar,Maria Lopez,Consumidor,Central,Alajuela,Tecnologia,Accesorios,181.24,1,0.1,27.3
+CR-2022-01525,2022-11-30,Economico,Ricardo Chaves,Corporativo,Central,San Jose,Tecnologia,Laptops,1699.9,2,0.0,222.26
+CR-2022-01525,2022-11-30,Express,Ricardo Chaves,Corporativo,Central,San Jose,Oficina,Papel,148.04,1,0.0,27.73
+CR-2022-01525,2022-11-30,Express,Ricardo Chaves,Corporativo,Central,San Jose,Muebles,Estantes,1984.68,3,0.05,183.24
+CR-2022-01526,2022-09-23,Economico,Andres Rojas,Consumidor,Central,Heredia,Oficina,Papel,115.99,1,0.05,35.13
+CR-2022-01526,2022-09-23,Economico,Andres Rojas,Consumidor,Central,Heredia,Muebles,Mesas,424.4,2,0.0,69.59
+CR-2023-01527,2023-03-18,Estandar,Valentina Castro,Gobierno,Pacifico,Puntarenas,Oficina,Organizadores,167.89,2,0.1,55.23
+CR-2023-01527,2023-03-18,Economico,Valentina Castro,Gobierno,Pacifico,Puntarenas,Muebles,Escritorios,1126.38,3,0.0,253.27
+CR-2023-01528,2023-12-05,Estandar,Pablo Solano,Corporativo,Central,San Jose,Tecnologia,Tablets,731.88,3,0.05,249.34
+CR-2022-01529,2022-07-12,Express,Fernando Arias,Consumidor,Pacifico,Guanacaste,Muebles,Estantes,137.85,1,0.1,10.94
+CR-2022-01529,2022-07-12,Estandar,Fernando Arias,Consumidor,Pacifico,Guanacaste,Muebles,Estantes,613.24,1,0.0,92.48
+CR-2023-01530,2023-08-11,Economico,Sebastian Vega,Consumidor,Pacifico,Guanacaste,Muebles,Sillas,141.04,1,0.05,31.28
+CR-2023-01530,2023-08-11,Economico,Sebastian Vega,Consumidor,Pacifico,Guanacaste,Oficina,Papel,132.06,1,0.1,56.77
+CR-2023-01530,2023-08-11,Estandar,Sebastian Vega,Consumidor,Pacifico,Guanacaste,Tecnologia,Telefonos,1286.94,1,0.0,218.5
+CR-2024-01531,2024-03-06,Express,Laura Jimenez,Consumidor,Central,Heredia,Muebles,Escritorios,169.48,1,0.0,40.79
+CR-2024-01531,2024-03-06,Estandar,Laura Jimenez,Consumidor,Central,Heredia,Tecnologia,Tablets,632.2,1,0.0,146.23
+CR-2022-01532,2022-10-23,Express,Isabella Monge,Consumidor,Pacifico,Guanacaste,Tecnologia,Tablets,2964.66,2,0.0,867.34
+CR-2023-01533,2023-10-14,Express,Diego Hernandez,Consumidor,Norte,Upala,Tecnologia,Telefonos,402.44,1,0.1,74.62
+CR-2023-01534,2023-10-16,Estandar,Camila Brenes,Consumidor,Central,Heredia,Tecnologia,Tablets,528.63,1,0.05,135.67
+CR-2023-01535,2023-12-28,Economico,Camila Brenes,Corporativo,Norte,San Carlos,Oficina,Organizadores,203.7,2,0.0,110.92
+CR-2022-01536,2022-11-30,Estandar,Andres Rojas,Gobierno,Pacifico,Guanacaste,Oficina,Impresion,127.86,2,0.0,42.22
+CR-2022-01536,2022-11-30,Express,Andres Rojas,Gobierno,Pacifico,Guanacaste,Oficina,Utiles,145.57,1,0.0,78.84
+CR-2024-01537,2024-10-13,Express,Ricardo Chaves,Consumidor,Pacifico,Puntarenas,Muebles,Escritorios,1401.37,3,0.05,237.18
+CR-2024-01538,2024-04-20,Economico,Diego Hernandez,Consumidor,Norte,Upala,Muebles,Escritorios,427.6,2,0.05,46.08
+CR-2023-01539,2023-08-04,Economico,Sofia Vargas,Corporativo,Central,San Jose,Tecnologia,Laptops,896.4,1,0.05,246.97
+CR-2024-01540,2024-06-28,Express,Pablo Solano,Consumidor,Central,Alajuela,Muebles,Escritorios,479.07,1,0.1,114.32
+CR-2024-01541,2024-04-25,Express,Mateo Calderon,Gobierno,Norte,San Carlos,Muebles,Mesas,721.15,1,0.1,146.31
+CR-2024-01541,2024-04-25,Express,Mateo Calderon,Gobierno,Norte,San Carlos,Tecnologia,Accesorios,1355.27,1,0.0,130.12
+CR-2023-01542,2023-11-18,Economico,Maria Lopez,Corporativo,Norte,San Carlos,Oficina,Impresion,52.73,1,0.15,16.96
+CR-2022-01543,2022-12-22,Economico,Diego Hernandez,Consumidor,Caribe,Limon,Tecnologia,Accesorios,1406.11,2,0.1,425.92
+CR-2022-01543,2022-12-22,Estandar,Diego Hernandez,Consumidor,Caribe,Limon,Oficina,Utiles,28.06,1,0.0,4.5
+CR-2022-01544,2022-02-26,Estandar,Gabriela Quesada,Consumidor,Central,Alajuela,Muebles,Estantes,1200.52,2,0.0,204.18
+CR-2022-01544,2022-02-26,Express,Gabriela Quesada,Consumidor,Central,Alajuela,Tecnologia,Laptops,743.72,1,0.1,212.57
+CR-2023-01545,2023-10-18,Estandar,Sofia Vargas,Gobierno,Central,Alajuela,Oficina,Impresion,22.79,1,0.0,5.07
+CR-2024-01546,2024-01-11,Express,Diego Hernandez,Consumidor,Pacifico,Guanacaste,Muebles,Escritorios,823.23,1,0.05,87.52
+CR-2022-01547,2022-11-26,Economico,Carlos Ramirez,Corporativo,Central,San Jose,Tecnologia,Laptops,219.95,1,0.0,76.65
+CR-2022-01547,2022-11-26,Economico,Carlos Ramirez,Corporativo,Central,San Jose,Tecnologia,Laptops,806.54,1,0.0,186.98
+CR-2024-01548,2024-11-26,Express,Andres Rojas,Gobierno,Pacifico,Puntarenas,Tecnologia,Accesorios,472.44,1,0.1,156.83
+CR-2024-01548,2024-11-26,Express,Andres Rojas,Gobierno,Pacifico,Puntarenas,Muebles,Escritorios,219.03,1,0.1,37.22
+CR-2024-01548,2024-11-26,Economico,Andres Rojas,Gobierno,Pacifico,Puntarenas,Muebles,Estantes,500.38,1,0.0,29.91
+CR-2024-01549,2024-12-15,Economico,Laura Jimenez,Corporativo,Caribe,Limon,Muebles,Escritorios,769.43,2,0.1,125.62
+CR-2024-01550,2024-11-29,Economico,Valentina Castro,Consumidor,Caribe,Limon,Muebles,Estantes,505.11,1,0.1,85.05
+CR-2024-01550,2024-11-29,Express,Valentina Castro,Consumidor,Caribe,Limon,Muebles,Mesas,104.55,1,0.0,21.11
+CR-2024-01550,2024-11-29,Estandar,Valentina Castro,Consumidor,Caribe,Limon,Tecnologia,Accesorios,362.02,1,0.0,52.25
+CR-2022-01551,2022-01-23,Economico,Ana Mora,Corporativo,Pacifico,Guanacaste,Oficina,Organizadores,14.6,1,0.0,3.46
+CR-2022-01551,2022-01-23,Economico,Ana Mora,Corporativo,Pacifico,Guanacaste,Oficina,Impresion,251.51,3,0.1,45.25
+CR-2022-01551,2022-01-23,Express,Ana Mora,Corporativo,Pacifico,Guanacaste,Oficina,Impresion,114.65,1,0.0,26.24
+CR-2022-01552,2022-04-06,Economico,Jose Garcia,Consumidor,Norte,San Carlos,Oficina,Papel,121.02,2,0.0,49.31
+CR-2022-01552,2022-04-06,Economico,Jose Garcia,Consumidor,Norte,San Carlos,Muebles,Sillas,626.36,2,0.0,141.58
+CR-2023-01553,2023-11-22,Express,Sofia Vargas,Consumidor,Central,Heredia,Muebles,Sillas,340.1,1,0.0,67.39
+CR-2023-01553,2023-11-22,Estandar,Sofia Vargas,Consumidor,Central,Heredia,Muebles,Estantes,925.45,3,0.05,154.97
+CR-2022-01554,2022-10-30,Express,Ana Mora,Consumidor,Central,San Jose,Oficina,Papel,68.17,1,0.0,34.83
+CR-2022-01554,2022-10-30,Express,Ana Mora,Consumidor,Central,San Jose,Oficina,Papel,117.77,1,0.1,22.89
+CR-2022-01554,2022-10-30,Estandar,Ana Mora,Consumidor,Central,San Jose,Muebles,Mesas,630.09,2,0.1,51.72
+CR-2024-01555,2024-11-01,Economico,Fernando Arias,Corporativo,Pacifico,Guanacaste,Oficina,Impresion,37.89,1,0.05,9.94
+CR-2023-01556,2023-11-08,Estandar,Ana Mora,Corporativo,Central,Heredia,Oficina,Papel,258.2,2,0.0,89.81
+CR-2023-01556,2023-11-08,Estandar,Ana Mora,Corporativo,Central,Heredia,Oficina,Organizadores,72.68,2,0.0,13.94
+CR-2023-01557,2023-10-01,Estandar,Lucia Sanchez,Gobierno,Pacifico,Puntarenas,Muebles,Sillas,2506.72,3,0.05,499.85
+CR-2023-01557,2023-10-01,Estandar,Lucia Sanchez,Gobierno,Pacifico,Puntarenas,Muebles,Mesas,725.8,2,0.15,110.88
+CR-2023-01557,2023-10-01,Estandar,Lucia Sanchez,Gobierno,Pacifico,Puntarenas,Muebles,Estantes,1596.96,2,0.0,360.34
+CR-2022-01558,2022-02-28,Express,Maria Lopez,Consumidor,Norte,Upala,Muebles,Estantes,253.89,1,0.0,24.57
+CR-2024-01559,2024-12-28,Estandar,Valentina Castro,Consumidor,Norte,Upala,Oficina,Utiles,85.52,2,0.05,16.56
+CR-2022-01560,2022-10-16,Estandar,Lucia Sanchez,Consumidor,Central,Alajuela,Muebles,Mesas,478.26,2,0.1,52.68
+CR-2022-01560,2022-10-16,Estandar,Lucia Sanchez,Consumidor,Central,Alajuela,Oficina,Organizadores,236.53,2,0.05,51.66
+CR-2023-01561,2023-08-13,Express,Valentina Castro,Consumidor,Caribe,Limon,Oficina,Papel,63.01,1,0.15,15.47
+CR-2023-01561,2023-08-13,Express,Valentina Castro,Consumidor,Caribe,Limon,Tecnologia,Tablets,964.95,3,0.0,51.93
+CR-2023-01561,2023-08-13,Estandar,Valentina Castro,Consumidor,Caribe,Limon,Muebles,Estantes,262.12,3,0.1,15.54
+CR-2024-01562,2024-08-28,Estandar,Fernando Arias,Consumidor,Norte,San Carlos,Oficina,Papel,103.61,1,0.0,36.39
+CR-2024-01562,2024-08-28,Economico,Fernando Arias,Consumidor,Norte,San Carlos,Tecnologia,Accesorios,934.17,2,0.05,252.64
+CR-2024-01563,2024-11-23,Economico,Diego Hernandez,Consumidor,Central,Heredia,Oficina,Papel,368.39,3,0.05,71.87
+CR-2024-01563,2024-11-23,Express,Diego Hernandez,Consumidor,Central,Heredia,Tecnologia,Laptops,4186.71,3,0.05,387.23
+CR-2024-01563,2024-11-23,Estandar,Diego Hernandez,Consumidor,Central,Heredia,Tecnologia,Telefonos,1775.0,2,0.0,198.61
+CR-2024-01564,2024-02-13,Express,Isabella Monge,Gobierno,Caribe,Limon,Oficina,Organizadores,52.8,1,0.05,27.88
+CR-2023-01565,2023-12-26,Express,Lucia Sanchez,Consumidor,Caribe,Limon,Muebles,Mesas,902.0,3,0.05,160.26
+CR-2023-01565,2023-12-26,Express,Lucia Sanchez,Consumidor,Caribe,Limon,Oficina,Papel,275.82,2,0.05,74.87
+CR-2023-01566,2023-10-27,Estandar,Fernando Arias,Corporativo,Pacifico,Guanacaste,Muebles,Estantes,75.75,1,0.1,2.38
+CR-2023-01567,2023-08-04,Express,Lucia Sanchez,Corporativo,Pacifico,Puntarenas,Tecnologia,Telefonos,2029.41,3,0.0,121.04
+CR-2023-01567,2023-08-04,Express,Lucia Sanchez,Corporativo,Pacifico,Puntarenas,Oficina,Organizadores,82.76,1,0.15,15.66
+CR-2023-01567,2023-08-04,Economico,Lucia Sanchez,Corporativo,Pacifico,Puntarenas,Oficina,Utiles,95.11,2,0.05,26.53
+CR-2023-01568,2023-11-13,Estandar,Lucia Sanchez,Consumidor,Pacifico,Guanacaste,Oficina,Utiles,64.68,1,0.1,31.28
+CR-2023-01568,2023-11-13,Express,Lucia Sanchez,Consumidor,Pacifico,Guanacaste,Oficina,Organizadores,58.72,1,0.15,25.55
+CR-2024-01569,2024-05-25,Economico,Jose Garcia,Consumidor,Norte,Upala,Muebles,Estantes,129.63,1,0.15,26.05
+CR-2022-01570,2022-09-18,Estandar,Maria Lopez,Corporativo,Caribe,Limon,Oficina,Papel,10.55,2,0.1,3.52
+CR-2022-01571,2022-12-23,Economico,Isabella Monge,Corporativo,Central,Heredia,Oficina,Papel,47.74,1,0.1,20.04
+CR-2022-01571,2022-12-23,Estandar,Isabella Monge,Corporativo,Central,Heredia,Oficina,Utiles,31.26,1,0.1,10.88
+CR-2023-01572,2023-09-09,Estandar,Fernando Arias,Corporativo,Central,Heredia,Tecnologia,Tablets,774.86,3,0.05,96.21
+CR-2022-01573,2022-02-20,Economico,Fernando Arias,Consumidor,Norte,Upala,Muebles,Escritorios,1594.46,2,0.1,232.39
+CR-2022-01574,2022-09-10,Express,Gabriela Quesada,Consumidor,Central,San Jose,Tecnologia,Laptops,1583.4,2,0.0,307.4
+CR-2022-01574,2022-09-10,Estandar,Gabriela Quesada,Consumidor,Central,San Jose,Oficina,Impresion,152.96,2,0.0,65.63
+CR-2024-01575,2024-05-03,Express,Gabriela Quesada,Consumidor,Pacifico,Puntarenas,Tecnologia,Laptops,847.19,1,0.05,209.39
+CR-2024-01575,2024-05-03,Estandar,Gabriela Quesada,Consumidor,Pacifico,Puntarenas,Muebles,Estantes,782.54,1,0.1,65.49
+CR-2024-01576,2024-10-22,Express,Isabella Monge,Gobierno,Pacifico,Guanacaste,Tecnologia,Telefonos,287.87,1,0.05,63.03
+CR-2023-01577,2023-07-25,Economico,Diego Hernandez,Consumidor,Caribe,Limon,Muebles,Estantes,519.11,1,0.1,70.91
+CR-2022-01578,2022-09-23,Express,Pablo Solano,Consumidor,Caribe,Limon,Tecnologia,Telefonos,733.34,2,0.05,186.12
+CR-2022-01578,2022-09-23,Express,Pablo Solano,Consumidor,Caribe,Limon,Oficina,Impresion,108.32,1,0.1,47.8
+CR-2022-01578,2022-09-23,Express,Pablo Solano,Consumidor,Caribe,Limon,Tecnologia,Accesorios,139.79,1,0.0,38.44
+CR-2022-01579,2022-03-02,Express,Lucia Sanchez,Corporativo,Caribe,Limon,Oficina,Utiles,88.2,1,0.0,28.67
+CR-2023-01580,2023-02-17,Express,Sofia Vargas,Consumidor,Norte,San Carlos,Oficina,Papel,18.95,1,0.0,2.88
+CR-2023-01580,2023-02-17,Express,Sofia Vargas,Consumidor,Norte,San Carlos,Muebles,Mesas,394.31,2,0.15,66.13
+CR-2023-01581,2023-03-01,Estandar,Jose Garcia,Consumidor,Norte,Upala,Tecnologia,Accesorios,1235.47,2,0.1,272.72
+CR-2023-01581,2023-03-01,Estandar,Jose Garcia,Consumidor,Norte,Upala,Tecnologia,Accesorios,209.94,1,0.05,31.34
+CR-2023-01581,2023-03-01,Express,Jose Garcia,Consumidor,Norte,Upala,Muebles,Sillas,360.13,1,0.1,20.28
+CR-2024-01582,2024-12-30,Estandar,Sebastian Vega,Corporativo,Caribe,Limon,Tecnologia,Accesorios,2282.3,3,0.15,561.38
+CR-2024-01582,2024-12-30,Economico,Sebastian Vega,Corporativo,Caribe,Limon,Muebles,Estantes,264.53,1,0.1,13.77
+CR-2022-01583,2022-10-08,Economico,Sofia Vargas,Gobierno,Central,Heredia,Oficina,Papel,398.32,3,0.05,80.38
+CR-2022-01583,2022-10-08,Express,Sofia Vargas,Gobierno,Central,Heredia,Tecnologia,Telefonos,193.08,2,0.05,34.65
+CR-2022-01584,2022-02-13,Estandar,Mateo Calderon,Corporativo,Central,San Jose,Oficina,Impresion,7.62,1,0.0,2.29
+CR-2022-01584,2022-02-13,Express,Mateo Calderon,Corporativo,Central,San Jose,Oficina,Organizadores,66.89,1,0.0,34.04
+CR-2023-01585,2023-02-01,Estandar,Gabriela Quesada,Consumidor,Central,San Jose,Muebles,Mesas,1870.91,3,0.1,281.85
+CR-2022-01586,2022-10-27,Economico,Maria Lopez,Consumidor,Norte,San Carlos,Oficina,Papel,402.33,3,0.0,124.37
+CR-2022-01587,2022-12-07,Economico,Fernando Arias,Corporativo,Pacifico,Guanacaste,Tecnologia,Telefonos,693.14,1,0.0,149.32
+CR-2022-01587,2022-12-07,Express,Fernando Arias,Corporativo,Pacifico,Guanacaste,Oficina,Impresion,127.76,1,0.05,24.5
+CR-2022-01587,2022-12-07,Economico,Fernando Arias,Corporativo,Pacifico,Guanacaste,Oficina,Utiles,142.83,1,0.0,73.53
+CR-2023-01588,2023-09-17,Express,Lucia Sanchez,Consumidor,Pacifico,Puntarenas,Tecnologia,Laptops,2018.94,2,0.05,170.14
+CR-2023-01589,2023-11-08,Estandar,Lucia Sanchez,Consumidor,Caribe,Limon,Tecnologia,Tablets,1301.02,1,0.0,145.35
+CR-2024-01590,2024-12-26,Economico,Andres Rojas,Corporativo,Caribe,Limon,Oficina,Utiles,102.96,1,0.1,26.26
+CR-2024-01590,2024-12-26,Economico,Andres Rojas,Corporativo,Caribe,Limon,Tecnologia,Laptops,1088.74,2,0.0,194.08
+CR-2024-01590,2024-12-26,Economico,Andres Rojas,Corporativo,Caribe,Limon,Tecnologia,Tablets,2173.31,3,0.15,296.06
+CR-2024-01591,2024-05-18,Estandar,Sebastian Vega,Gobierno,Caribe,Limon,Tecnologia,Telefonos,217.1,1,0.1,72.79
+CR-2024-01591,2024-05-18,Express,Sebastian Vega,Gobierno,Caribe,Limon,Oficina,Organizadores,95.78,2,0.0,24.87
+CR-2022-01592,2022-12-26,Economico,Ricardo Chaves,Corporativo,Caribe,Limon,Muebles,Mesas,87.27,1,0.0,14.55
+CR-2024-01593,2024-10-16,Economico,Camila Brenes,Gobierno,Caribe,Limon,Muebles,Sillas,292.82,1,0.0,17.61
+CR-2023-01594,2023-10-22,Economico,Gabriela Quesada,Corporativo,Pacifico,Guanacaste,Tecnologia,Accesorios,276.36,2,0.0,35.16
+CR-2023-01594,2023-10-22,Express,Gabriela Quesada,Corporativo,Pacifico,Guanacaste,Oficina,Papel,218.32,2,0.0,39.51
+CR-2024-01595,2024-11-12,Express,Isabella Monge,Corporativo,Pacifico,Guanacaste,Oficina,Organizadores,66.84,1,0.0,26.25
+CR-2024-01596,2024-04-15,Estandar,Daniel Cordero,Gobierno,Caribe,Limon,Tecnologia,Telefonos,584.04,1,0.0,132.79
+CR-2024-01596,2024-04-15,Express,Daniel Cordero,Gobierno,Caribe,Limon,Muebles,Mesas,947.82,2,0.05,145.72
+CR-2024-01597,2024-02-15,Economico,Mateo Calderon,Corporativo,Central,Alajuela,Oficina,Impresion,13.91,1,0.15,3.34
+CR-2024-01597,2024-02-15,Express,Mateo Calderon,Corporativo,Central,Alajuela,Oficina,Impresion,211.45,2,0.05,36.07
+CR-2023-01598,2023-10-12,Economico,Lucia Sanchez,Consumidor,Caribe,Limon,Tecnologia,Tablets,1421.88,2,0.0,173.92
+CR-2023-01598,2023-10-12,Express,Lucia Sanchez,Consumidor,Caribe,Limon,Muebles,Mesas,290.7,2,0.0,30.04
+CR-2023-01598,2023-10-12,Economico,Lucia Sanchez,Consumidor,Caribe,Limon,Muebles,Mesas,652.29,1,0.1,161.08
+CR-2024-01599,2024-04-14,Estandar,Pablo Solano,Corporativo,Pacifico,Guanacaste,Tecnologia,Telefonos,1284.66,2,0.0,254.7
